@@ -1,0 +1,302 @@
+{
+  "resources-overview/template-page/documentation/light-mode/purple-135f6d94771f81de82b7c5566827cee1": {
+    "title": "Purple",
+    "slug": "purple-135f6d94771f81de82b7c5566827cee1",
+    "fullSlug": "resources-overview/template-page/documentation/light-mode/purple-135f6d94771f81de82b7c5566827cee1",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #EAE4F2\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 103,36,222,0.2\nText CSS Variable: --color-text-purple\nText Color: #6940A5"
+  },
+  "resources-overview/template-page/documentation/light-mode/red-135f6d94771f81d49b3af1f6b0725c69": {
+    "title": "Red",
+    "slug": "red-135f6d94771f81d49b3af1f6b0725c69",
+    "fullSlug": "resources-overview/template-page/documentation/light-mode/red-135f6d94771f81d49b3af1f6b0725c69",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #FBE4E4\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,0,26,0.2\nText CSS Variable: --color-text-red\nText Color: #E03E3E"
+  },
+  "resources-overview/template-page/documentation/light-mode/yellow-135f6d94771f818fac47eb41e842ac5f": {
+    "title": "Yellow",
+    "slug": "yellow-135f6d94771f818fac47eb41e842ac5f",
+    "fullSlug": "resources-overview/template-page/documentation/light-mode/yellow-135f6d94771f818fac47eb41e842ac5f",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #FBF3DB\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 233,168,0,0.2\nText CSS Variable: --color-text-yellow\nText Color: #DFAB01"
+  },
+  "resources-overview/template-page/documentation/untitled/135f6d94771f811bb0d8df92720d6a24": {
+    "title": "@",
+    "slug": "135f6d94771f811bb0d8df92720d6a24",
+    "fullSlug": "resources-overview/template-page/documentation/untitled/135f6d94771f811bb0d8df92720d6a24",
+    "content": "# @\n\nValue: 76.76.21.21\nType: A"
+  },
+  "resources-overview/template-page/documentation/untitled/www-135f6d94771f81139458db935f126ca1": {
+    "title": "www",
+    "slug": "www-135f6d94771f81139458db935f126ca1",
+    "fullSlug": "resources-overview/template-page/documentation/untitled/www-135f6d94771f81139458db935f126ca1",
+    "content": "# www\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "resources-overview/template-page/documentation/untitled-135f-dfb6/your-subdomain-135f6d94771f81ef88dde4a9499bc7be": {
+    "title": "(your subdomain)",
+    "slug": "your-subdomain-135f6d94771f81ef88dde4a9499bc7be",
+    "fullSlug": "resources-overview/template-page/documentation/untitled-135f-dfb6/your-subdomain-135f6d94771f81ef88dde4a9499bc7be",
+    "content": "# (your subdomain)\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "resources-overview/template-page/getting-started/design-system-135f6d94771f814a8994f065216aaaee": {
+    "title": "Design System",
+    "slug": "design-system-135f6d94771f814a8994f065216aaaee",
+    "fullSlug": "resources-overview/template-page/getting-started/design-system-135f6d94771f814a8994f065216aaaee",
+    "content": "# Design System\n\nUse cases\n\n# Design System\n\n> Aether is also perfect for design systems and guidelines\n> \n\n## **Mission Statement**\n\nOur mission is to create the most beautiful documentation template for Super and Notion.\n\n## **Values**\n\n- Minimalism\n- Transparency\n- Forward-thinking\n\n### Logomark\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 1.svg](../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_1.svg)\n\n## Icon\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 5.svg](../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_5.svg)\n\n![Frame 2.svg](../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_2.svg)\n\n![Frame 6.svg](../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_6.svg)\n\n### Primary Colors\n\n[Primary Colors](Design%20System/Primary%20Colors%20135f6d94771f8199813de81735046f4c.csv)\n\n### Secondary Colors\n\n[Secondary Colors](Design%20System/Secondary%20Colors%20135f6d94771f81f1870bf5384ea0db78.csv)\n\n← Previous\n\n[Documentation example](https://www.notion.so/c893cd9cef6049fdbfb642a3fb655b69?pvs=21)"
+  },
+  "resources-overview/template-page/getting-started/getting-started-135f6d94771f8145bad2f8f2e1a283ed": {
+    "title": "Getting Started",
+    "slug": "getting-started-135f6d94771f8145bad2f8f2e1a283ed",
+    "fullSlug": "resources-overview/template-page/getting-started/getting-started-135f6d94771f8145bad2f8f2e1a283ed",
+    "content": "# Getting Started\n\n# Getting Started\n\n> Welcome to Aether, to get started all you need is a [Notion](https://affiliate.notion.so/cxvpa1a3ocar) & [Super](https://super.so) account.\n> \n\n## 1. Duplicate Notion page\n\nThe first step to using this template is to duplicate this Notion page to your own workspace. Click the button below to open the Notion page.\n\n[**Duplicate Notion page**](https://s.super.so/aether)\n\n## 2. Create a Super site\n\nThen, head to your [Super dashboard](https://app.super.so) and create a new site using the public URL of your newly duplicated Notion page. [Learn how to do that here.](https://docs.super.site/creating-a-site)\n\n## 3. Add the style snippet\n\nThen, head to your site settings (gear icon) and into the code page. Then inside the 'Head' tab, paste the following code snippet.\n\n```html\n<link rel=\"stylesheet\" href=\"https://sites.super.so/aether/style.css\"/>\n```\n\n## 4. Add the script snippet\n\nThen inside the 'Body' tab, paste the following code snippet.\n\n```html\n<script src=\"https://sites.super.so/aether/script.js\"></script>\n```\n\n## 5. Add a footer and navbar\n\nFinally, in your site settings be sure to add a footer and navbar.\n\n<div class=\"callout\">\n💡 And just like magic, you should now see the Aether template in your dashboard preview. There's a few extra quirks to customizing and making the most out of the Aether template, check the **'Using Aether'** page to learn more ↓\n\n</div>\n\nNext →\n\n[Using Aether](https://www.notion.so/8fa99420c5c04ff8b06967b8815fbcaf?pvs=21)"
+  },
+  "resources-overview/template-page/getting-started/using-aether-135f6d94771f81d1bad3e635dda483b3": {
+    "title": "Using Aether",
+    "slug": "using-aether-135f6d94771f81d1bad3e635dda483b3",
+    "fullSlug": "resources-overview/template-page/getting-started/using-aether-135f6d94771f81d1bad3e635dda483b3",
+    "content": "# Using Aether\n\n# Using Aether\n\n> Aether comes with some additional custom features\n> \n\n## Left sidebar\n\nThe left hand sidebar, by default lists all the pages in your site and is wrapped in a synced block so that when you modify the content inside it will update throughout your site. This sidebar **will not** be visible on mobile devices so it is important to add page links to the mobile menu via the Super Navbar, learn more in the next step ↓\n\n## Adding page links to mobile menu\n\nSince the left sidebar will not be visible on mobile devices you need to manually add all your site pages to the links section inside a Super Navbar *(Site settings > Navbar > Navbar items)* so that they appear in a mobile menu. To make sure links don't appear in the navigation bar at the top, make sure to choose the **'Minimal'** Navbar type.\n\n![Manually adding site links via a Super Navbar to appear on Mobile Menu](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/mobile-links.gif)\n\nManually adding site links via a Super Navbar to appear on Mobile Menu\n\n## Right sidebar\n\nThe right hand sidebar, by default features a table of contents so users can navigate your pages with ease. The table of contents is wrapped in a synced block so when you modify the content inside it will update throughout your site. You can also delete the column, it would not break the template layout.\n\n## Primary color\n\nYou can easily switch the primary color of the Aether template to suite your needs. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the HEX color code to your liking. The primary color acts like an accent color and appears in places like code syntax.\n\n```css\n:root {\n\t—-color-primary: #1ca0f1 !important;\n}\n```\n\n## Call to action button\n\nAether has an additional feature that lets you turn a link into a call to action button, check out the example below.\n\n[**Call to action button**](https://super.so)\n\nFor a link to become a button it must be a single **bold** text block on its own line with a link. You can customise the appearance of the button using the code snippet below. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the values to your liking. This will also affect the styles of the Navbar call to action button.\n\n```css\n:root {\n\t--cta-color-text: #FFFFFF!important;\n\t--cta-color-bg: #1CA0F2!important;\n\t--cta-padding: 12px 22px!important;\n  --cta-border-radius: 50px!important;\n}\n```\n\n![Adding a call to action button](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/call-to-action.gif)\n\nAdding a call to action button\n\n## Adding columns inside columns\n\nYou can now add multiple column blocks to Notion by using the Advanced blocks for multiple columns; type  `/2 columns` in Notion to add two columns.\n\n## Custom site footer\n\nAether is compatible with the Super Footer. Add a footer to your site from the Footer menu on the Site dashboard in Super.\n\n## Site footer social links\n\nThe site footer features a section to display social links, powered in Notion by a gallery block. By default the gallery block is loaded with a range of different Icons that are hidden. To view and enable them, hover over the gallery block and click filter button and uncheck the checkbox, this will show hidden icons. Then inside an icon update the link and check the 'show' box. Make sure to update the filter on the gallery block when you're finished.\n\n![Updating footer social links](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/footer-social.gif)\n\nUpdating footer social links\n\n## Adding new pages\n\nAdding new pages in Aether is easy. Inside the **Control panel toggle block** on the home page of Aether in Notion is a **Create page button**. Click this button to generate a new page using the Aether template and then move it into the left sidebar synced block. This template page automatically has the correct layout and contains all the synced blocks required for the template to work correctly.\n\n![Adding new pages](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/add-page.gif)\n\nAdding new pages\n\n## Content navigation footer\n\nThe content navigation footer is an optional section that you can see at the bottom of this section and it features two large buttons to help users navigate to the previous or next page. The links must be added manually and will only work correctly if it is placed at the very bottom of the center content column. To add this navigation footer to a page, head inside the **Control panel toggle block** on the home page of Aether in Notion and into the **tools page**. Inside is a **'Navigation footer'** template button that you can copy and paste into your other pages and simply click it ****to create a navigation footer.\n\n![Adding a content navigation footer](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/180e6efd-14f3-4f4e-aa18-56777d28825d_(1).gif)\n\nAdding a content navigation footer\n\n← Previous\n\n[Getting Started](/resources/getting-started-135f6d94771f8112a90ce018ca2cc20b)\n\nNext →\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)"
+  },
+  "resources-overview/template-page/getting-started/design-system/primary-colors/aether-blue-135f6d94771f81238012da981ce01314": {
+    "title": "Aether Blue",
+    "slug": "aether-blue-135f6d94771f81238012da981ce01314",
+    "fullSlug": "resources-overview/template-page/getting-started/design-system/primary-colors/aether-blue-135f6d94771f81238012da981ce01314",
+    "content": "# Aether Blue\n\nCreated: November 5, 2024 1:35 PM\nHEX: #1ca0f1"
+  },
+  "resources-overview/template-page/getting-started/design-system/primary-colors/aether-dark-135f6d94771f81b7946cddbaf34a22d2": {
+    "title": "Aether Dark",
+    "slug": "aether-dark-135f6d94771f81b7946cddbaf34a22d2",
+    "fullSlug": "resources-overview/template-page/getting-started/design-system/primary-colors/aether-dark-135f6d94771f81b7946cddbaf34a22d2",
+    "content": "# Aether Dark\n\nCreated: November 5, 2024 1:35 PM\nHEX: #424b55"
+  },
+  "resources-overview/template-page/getting-started/design-system/secondary-colors/shade-1-135f6d94771f810f91ebf79e469f0c67": {
+    "title": "Shade 1",
+    "slug": "shade-1-135f6d94771f810f91ebf79e469f0c67",
+    "fullSlug": "resources-overview/template-page/getting-started/design-system/secondary-colors/shade-1-135f6d94771f810f91ebf79e469f0c67",
+    "content": "# Shade 1\n\nCreated: November 5, 2024 1:35 PM\nHEX: #60bdf5"
+  },
+  "resources-overview/template-page/getting-started/design-system/secondary-colors/shade-2-135f6d94771f81d38bf9e0262ba06d6a": {
+    "title": "Shade 2",
+    "slug": "shade-2-135f6d94771f81d38bf9e0262ba06d6a",
+    "fullSlug": "resources-overview/template-page/getting-started/design-system/secondary-colors/shade-2-135f6d94771f81d38bf9e0262ba06d6a",
+    "content": "# Shade 2\n\nCreated: November 5, 2024 1:35 PM\nHEX: #90d1f8"
+  },
+  "resources-overview/template-page/getting-started/design-system/secondary-colors/shade-3-135f6d94771f819584c8d9880e38ec30": {
+    "title": "Shade 3",
+    "slug": "shade-3-135f6d94771f819584c8d9880e38ec30",
+    "fullSlug": "resources-overview/template-page/getting-started/design-system/secondary-colors/shade-3-135f6d94771f819584c8d9880e38ec30",
+    "content": "# Shade 3\n\nCreated: November 5, 2024 1:35 PM\nHEX: #b1dffa"
+  },
+  "resources-overview/template-page/using-aether/documentation-135f6d94771f81e58767f01ddcda9424": {
+    "title": "Documentation",
+    "slug": "documentation-135f6d94771f81e58767f01ddcda9424",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation-135f6d94771f81e58767f01ddcda9424",
+    "content": "# Documentation\n\nGetting started\n\n[Using Aether](/resources/using-aether-135f6d94771f8120be72e604d8d58c91)\n\nUse cases\n\n[Design System](/resources/design-system-135f6d94771f8168a0d4d7b59bb788d2)\n\n# Documentation\n\n> Aether is perfect for building out documentation of all kinds, check out the content below for examples on what can be achieved.\n> \n\n<div class=\"callout\">\n⚡ [Check out the official Super documentation built using Aether here](https://docs.super.so)\n\n</div>\n\n## Code Documentation\n\n### Environment Variables\n\nAether has built-in support for loading environment variables into the browser and Functions. Loading environment variables into Node.js requires a small code snippet. In development, Aether will load environment variables from a file named `.env.development`. For builds, it will load from `.env.production`.\n\nA `.env` file could look like:\n\n```\nAether=https://dev.example.com/apiAPI_KEY=927349872349798\n```\n\nTo load these into Node.js, add the following code snippet to the top of your `Aether-config.js` file:\n\n```jsx\nrequire(\"dotenv\").config({  path: `.env.${process.env.NODE_ENV}`,})\n```\n\nThis loads `process.env.AETHER_API_URL` and `process.env.API_KEY` for use in `Aether-*.js` files and functions.\n\nFor example, when configuring a plugin in `aether-config.js`:\n\n```jsx\nrequire(\"dotenv\").config({  \n\tpath: `.env.${process.env.NODE_ENV}`,\n})\n\nmodule.exports = {  \n\tplugins: [    \n\t\t{      \n\t\t\tresolve: `aether`,      \n\t\t\toptions: {        \n\t\t\t\tapiKey: process.env.API_KEY,      \n\t\t\t},    \n\t\t},  \n\t],\n}\n```\n\n### **Accessing Environment Variables in the browser.**\n\nBy default, environment variables are only available in Node.js code and are not available in the browser as some variables should be kept secret and not exposed to anyone visiting the site.\n\nTo expose a variable in the browser, you must preface its name with `AETHER_`. So `AETHER_API_URL` will be available in browser code but `API_KEY` will not.\n\nVariables are set when JavaScript is compiled so when the development server is started or you build your site.\n\n```jsx\nimport React, { useState, useEffect } from \"react\"\nfunction App() {\n  const [data, setData] = useState()\n  useEffect(async () => {\n    const result = await fetch(\n      `${process.env.AETHER_API_URL}/users`\n    ).then(res => res.json())\n    setData(result.data)\n  })\n  return (\n    <ul>\n      {data.map(user => (\n        <li key={user.id}>\n          <a href={user.url}>{user.name}</a>\n        </li>\n      ))}\n    </ul>\n  )\n}\nexport default App\n```\n\n### **Add `.env*` files to .gitignore**\n\nEnvironment variable files should not be committed to Git as they often contain secrets which are not safe to add to Git. Instead, add `.env.*` to your `.gitignore` file and setup the environment variables manually locally.\n\n---\n\n## Reference Tables\n\n### Light mode colors\n\n[Light Mode](Documentation/Light%20Mode%20135f6d94771f81038f5ece7724d34505.csv)\n\n### Dark mode colors\n\n[Dark Mode](Documentation/Dark%20Mode%20135f6d94771f81038e53e9b2fc718799.csv)\n\n---\n\n## Guides and Instructions\n\n### Adding a custom domain to your site\n\nTo add a domain to your site, first head into your site editor (cog icon) and click into the **\"Domains\"** page, then click the **\"Add a custom domain\"** button. After entering your own domain address in the popup, you'll then need to make some changes to the DNS settings through your hosting provider.\n\nYou would need to do this through your domain registrar's (GoDaddy, Namecheap, Google Domains, etc) or DNS provider's (Cloudflare, Netlify, etc) website. For specific instructions, view the content inside the toggle blocks below.\n\n## DNS Settings\n\nBelow you can find the DNS settings that need to be included on your domain registrar's (GoDaddy, Namecheap, Google Domains, etc) or DNS provider's (Cloudflare, Netlify, etc) website.\n\n### Root domain records\n\nFor a root domain like `example.com` you'll need to add the following records:\n\n[Untitled](Documentation/Untitled%20135f6d94771f816cb1bcf516611ddf62.csv)\n\n### Subdomain records\n\nFor a subdomain like `blog.example.com` add this record:\n\n[Untitled](Documentation/Untitled%20135f6d94771f812b9d1bc5e0ca1b8510.csv)\n\n**If you run into issues, please make sure that you have:**\n\n- Added new DNS records to your domain provider\n- Removed old DNS records\n- Waited up to 24 hours for new settings to propagate\n\n<div class=\"callout\">\n💡 This tool can be used to check if the records are set up correctly: [https://www.whatsmydns.net/](https://www.whatsmydns.net/)\n\n</div>\n\n← Previous\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)\n\nNext →\n\n[Design System](https://www.notion.so/4518d74bace84b25a518e64497467506?pvs=21)"
+  },
+  "resources-overview/template-page/using-aether/using-aether-135f6d94771f812e8d0ce71544304770": {
+    "title": "Using Aether",
+    "slug": "using-aether-135f6d94771f812e8d0ce71544304770",
+    "fullSlug": "resources-overview/template-page/using-aether/using-aether-135f6d94771f812e8d0ce71544304770",
+    "content": "# Using Aether\n\n# Using Aether\n\n> Aether comes with some additional custom features\n> \n\n## Left sidebar\n\nThe left hand sidebar, by default lists all the pages in your site and is wrapped in a synced block so that when you modify the content inside it will update throughout your site. This sidebar **will not** be visible on mobile devices so it is important to add page links to the mobile menu via the Super Navbar, learn more in the next step ↓\n\n## Adding page links to mobile menu\n\nSince the left sidebar will not be visible on mobile devices you need to manually add all your site pages to the links section inside a Super Navbar *(Site settings > Navbar > Navbar items)* so that they appear in a mobile menu. To make sure links don't appear in the navigation bar at the top, make sure to choose the **'Minimal'** Navbar type.\n\n![Manually adding site links via a Super Navbar to appear on Mobile Menu](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/mobile-links.gif)\n\nManually adding site links via a Super Navbar to appear on Mobile Menu\n\n## Right sidebar\n\nThe right hand sidebar, by default features a table of contents so users can navigate your pages with ease. The table of contents is wrapped in a synced block so when you modify the content inside it will update throughout your site. You can also delete the column, it would not break the template layout.\n\n## Primary color\n\nYou can easily switch the primary color of the Aether template to suite your needs. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the HEX color code to your liking. The primary color acts like an accent color and appears in places like code syntax.\n\n```css\n:root {\n\t—-color-primary: #1ca0f1 !important;\n}\n```\n\n## Call to action button\n\nAether has an additional feature that lets you turn a link into a call to action button, check out the example below.\n\n[**Call to action button**](https://super.so)\n\nFor a link to become a button it must be a single **bold** text block on its own line with a link. You can customise the appearance of the button using the code snippet below. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the values to your liking. This will also affect the styles of the Navbar call to action button.\n\n```css\n:root {\n\t--cta-color-text: #FFFFFF!important;\n\t--cta-color-bg: #1CA0F2!important;\n\t--cta-padding: 12px 22px!important;\n  --cta-border-radius: 50px!important;\n}\n```\n\n![Adding a call to action button](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/call-to-action.gif)\n\nAdding a call to action button\n\n## Adding columns inside columns\n\nYou can now add multiple column blocks to Notion by using the Advanced blocks for multiple columns; type  `/2 columns` in Notion to add two columns.\n\n## Custom site footer\n\nAether is compatible with the Super Footer. Add a footer to your site from the Footer menu on the Site dashboard in Super.\n\n## Site footer social links\n\nThe site footer features a section to display social links, powered in Notion by a gallery block. By default the gallery block is loaded with a range of different Icons that are hidden. To view and enable them, hover over the gallery block and click filter button and uncheck the checkbox, this will show hidden icons. Then inside an icon update the link and check the 'show' box. Make sure to update the filter on the gallery block when you're finished.\n\n![Updating footer social links](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/footer-social.gif)\n\nUpdating footer social links\n\n## Adding new pages\n\nAdding new pages in Aether is easy. Inside the **Control panel toggle block** on the home page of Aether in Notion is a **Create page button**. Click this button to generate a new page using the Aether template and then move it into the left sidebar synced block. This template page automatically has the correct layout and contains all the synced blocks required for the template to work correctly.\n\n![Adding new pages](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/add-page.gif)\n\nAdding new pages\n\n## Content navigation footer\n\nThe content navigation footer is an optional section that you can see at the bottom of this section and it features two large buttons to help users navigate to the previous or next page. The links must be added manually and will only work correctly if it is placed at the very bottom of the center content column. To add this navigation footer to a page, head inside the **Control panel toggle block** on the home page of Aether in Notion and into the **tools page**. Inside is a **'Navigation footer'** template button that you can copy and paste into your other pages and simply click it ****to create a navigation footer.\n\n![Adding a content navigation footer](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/180e6efd-14f3-4f4e-aa18-56777d28825d_(1).gif)\n\nAdding a content navigation footer\n\n← Previous\n\n[Getting Started](https://www.notion.so/130d7196a4fa491f90f488321eeb74aa?pvs=21)\n\nNext →\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)"
+  },
+  "resources-overview/template-page/using-aether/documentation/design-system-135f6d94771f8168a0d4d7b59bb788d2": {
+    "title": "Design System",
+    "slug": "design-system-135f6d94771f8168a0d4d7b59bb788d2",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/design-system-135f6d94771f8168a0d4d7b59bb788d2",
+    "content": "# Design System\n\n# Design System\n\n> Aether is also perfect for design systems and guidelines\n> \n\n## **Mission Statement**\n\nOur mission is to create the most beautiful documentation template for Super and Notion.\n\n## **Values**\n\n- Minimalism\n- Transparency\n- Forward-thinking\n\n### Logomark\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 1.svg](../../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_1.svg)\n\n## Icon\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 5.svg](../../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_5.svg)\n\n![Frame 2.svg](../../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_2.svg)\n\n![Frame 6.svg](../../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_6.svg)\n\n### Primary Colors\n\n[Primary Colors](Design%20System/Primary%20Colors%20135f6d94771f81f8b4f7c3a77b6d30b0.csv)\n\n### Secondary Colors\n\n[Secondary Colors](Design%20System/Secondary%20Colors%20135f6d94771f81e0a963d9f4064773e5.csv)\n\n← Previous\n\n[Documentation example](/resources/documentation-135f6d94771f81e58767f01ddcda9424)"
+  },
+  "resources-overview/template-page/using-aether/documentation/using-aether-135f6d94771f8120be72e604d8d58c91": {
+    "title": "Using Aether",
+    "slug": "using-aether-135f6d94771f8120be72e604d8d58c91",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/using-aether-135f6d94771f8120be72e604d8d58c91",
+    "content": "# Using Aether"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/blue-135f6d94771f810087e5faa5dbf2febb": {
+    "title": "Blue",
+    "slug": "blue-135f6d94771f810087e5faa5dbf2febb",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/blue-135f6d94771f810087e5faa5dbf2febb",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #364954\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 82,156,202,0.5\nText CSS Variable: --color-text-blue\nText Color: #529CCA"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/brown-135f6d94771f8159871ce701011be247": {
+    "title": "Brown",
+    "slug": "brown-135f6d94771f8159871ce701011be247",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/brown-135f6d94771f8159871ce701011be247",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #434040\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 147,114,100,0.5\nText CSS Variable: --color-text-brown\nText Color: #937264"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/default-135f6d94771f81ab90a4c5c28606a2bc": {
+    "title": "Default",
+    "slug": "default-135f6d94771f81ab90a4c5c28606a2bc",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/default-135f6d94771f81ab90a4c5c28606a2bc",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #2F3437\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: 255,255,255,0.9"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/gray-135f6d94771f81bbbc9fec94451ba8ce": {
+    "title": "Gray",
+    "slug": "gray-135f6d94771f81bbbc9fec94451ba8ce",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/gray-135f6d94771f81bbbc9fec94451ba8ce",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #454B4E\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 151,154,155,0.5\nText CSS Variable: --color-text-gray\nText Color: 151,154,155,0.95"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/green-135f6d94771f8194bfe9d35c95ba3f0c": {
+    "title": "Green",
+    "slug": "green-135f6d94771f8194bfe9d35c95ba3f0c",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/green-135f6d94771f8194bfe9d35c95ba3f0c",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #354C4B\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 77,171,154,0.5\nText CSS Variable: --color-text-green\nText Color: #4DAB9A"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/orange-135f6d94771f81568ff2f28926fd80b0": {
+    "title": "Orange",
+    "slug": "orange-135f6d94771f81568ff2f28926fd80b0",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/orange-135f6d94771f81568ff2f28926fd80b0",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #594A3A\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 255,163,68,0.5\nText CSS Variable: --color-text-orange\nText Color: #FFA344"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/pink-135f6d94771f8150a760e1f37ac0d821": {
+    "title": "Pink",
+    "slug": "pink-135f6d94771f8150a760e1f37ac0d821",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/pink-135f6d94771f8150a760e1f37ac0d821",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #533B4C\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 226,85,161,0.5\nText CSS Variable: --color-text-pink\nText Color: #E255A1"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/purple-135f6d94771f8150afc8cafbaed66371": {
+    "title": "Purple",
+    "slug": "purple-135f6d94771f8150afc8cafbaed66371",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/purple-135f6d94771f8150afc8cafbaed66371",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #443F57\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 154,109,215,0.5\nText CSS Variable: --color-text-purple\nText Color: #9A6DD7"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/red-135f6d94771f81cea102cc844316cfa0": {
+    "title": "Red",
+    "slug": "red-135f6d94771f81cea102cc844316cfa0",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/red-135f6d94771f81cea102cc844316cfa0",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #594141\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,115,105,0.5\nText CSS Variable: --color-text-red\nText Color: #FF7369"
+  },
+  "resources-overview/template-page/using-aether/documentation/dark-mode/yellow-135f6d94771f810cb898c517e08a2d6f": {
+    "title": "Yellow",
+    "slug": "yellow-135f6d94771f810cb898c517e08a2d6f",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/dark-mode/yellow-135f6d94771f810cb898c517e08a2d6f",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #59563B\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 255,220,73,0.5\nText CSS Variable: --color-text-yellow\nText Color: #FFDC49"
+  },
+  "resources-overview/template-page/using-aether/documentation/design-system/primary-colors/aether-blue-135f6d94771f818da078cfcd6996e5f3": {
+    "title": "Aether Blue",
+    "slug": "aether-blue-135f6d94771f818da078cfcd6996e5f3",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/design-system/primary-colors/aether-blue-135f6d94771f818da078cfcd6996e5f3",
+    "content": "# Aether Blue\n\nCreated: November 5, 2024 1:35 PM\nHEX: #1ca0f1"
+  },
+  "resources-overview/template-page/using-aether/documentation/design-system/primary-colors/aether-dark-135f6d94771f812c81c6def37b4a9216": {
+    "title": "Aether Dark",
+    "slug": "aether-dark-135f6d94771f812c81c6def37b4a9216",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/design-system/primary-colors/aether-dark-135f6d94771f812c81c6def37b4a9216",
+    "content": "# Aether Dark\n\nCreated: November 5, 2024 1:35 PM\nHEX: #424b55"
+  },
+  "resources-overview/template-page/using-aether/documentation/design-system/secondary-colors/shade-1-135f6d94771f8180a6c9fb45386e3e25": {
+    "title": "Shade 1",
+    "slug": "shade-1-135f6d94771f8180a6c9fb45386e3e25",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/design-system/secondary-colors/shade-1-135f6d94771f8180a6c9fb45386e3e25",
+    "content": "# Shade 1\n\nCreated: November 5, 2024 1:35 PM\nHEX: #60bdf5"
+  },
+  "resources-overview/template-page/using-aether/documentation/design-system/secondary-colors/shade-2-135f6d94771f81e49ec5d60576489336": {
+    "title": "Shade 2",
+    "slug": "shade-2-135f6d94771f81e49ec5d60576489336",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/design-system/secondary-colors/shade-2-135f6d94771f81e49ec5d60576489336",
+    "content": "# Shade 2\n\nCreated: November 5, 2024 1:35 PM\nHEX: #90d1f8"
+  },
+  "resources-overview/template-page/using-aether/documentation/design-system/secondary-colors/shade-3-135f6d94771f815b8e1cc5a03008a7aa": {
+    "title": "Shade 3",
+    "slug": "shade-3-135f6d94771f815b8e1cc5a03008a7aa",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/design-system/secondary-colors/shade-3-135f6d94771f815b8e1cc5a03008a7aa",
+    "content": "# Shade 3\n\nCreated: November 5, 2024 1:35 PM\nHEX: #b1dffa"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/blue-135f6d94771f8109aed9d82d8dfbc9ea": {
+    "title": "Blue",
+    "slug": "blue-135f6d94771f8109aed9d82d8dfbc9ea",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/blue-135f6d94771f8109aed9d82d8dfbc9ea",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #DDEBF1\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 0,120,223,0.2\nText CSS Variable: --color-text-blue\nText Color: #0B6E99"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/brown-135f6d94771f812d9946dd1944ad7621": {
+    "title": "Brown",
+    "slug": "brown-135f6d94771f812d9946dd1944ad7621",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/brown-135f6d94771f812d9946dd1944ad7621",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #E9E5E3\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 140,46,0,0.2\nText CSS Variable: --color-text-brown\nText Color: #64473A"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/default-135f6d94771f81b588e1cb93f152961e": {
+    "title": "Default",
+    "slug": "default-135f6d94771f81b588e1cb93f152961e",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/default-135f6d94771f81b588e1cb93f152961e",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #FFFFFF\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: #37352F"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/gray-135f6d94771f81ad8643cbd38f8923d3": {
+    "title": "Gray",
+    "slug": "gray-135f6d94771f81ad8643cbd38f8923d3",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/gray-135f6d94771f81ad8643cbd38f8923d3",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #EBECED\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 155,154,151,0.4\nText CSS Variable: --color-text-gray\nText Color: #9B9A97"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/green-135f6d94771f81cba459c95825dab989": {
+    "title": "Green",
+    "slug": "green-135f6d94771f81cba459c95825dab989",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/green-135f6d94771f81cba459c95825dab989",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #DDEDEA\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 0,135,107,0.2\nText CSS Variable: --color-text-green\nText Color: #0F7B6C"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/orange-135f6d94771f81f08dd5df155bb2c303": {
+    "title": "Orange",
+    "slug": "orange-135f6d94771f81f08dd5df155bb2c303",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/orange-135f6d94771f81f08dd5df155bb2c303",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #FAEBDD\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 245,93,0,0.2\nText CSS Variable: --color-text-orange\nText Color: #D9730D"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/pink-135f6d94771f8113a198c6bd2ed11684": {
+    "title": "Pink",
+    "slug": "pink-135f6d94771f8113a198c6bd2ed11684",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/pink-135f6d94771f8113a198c6bd2ed11684",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #F4DFEB\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 221,0,129,0.2\nText CSS Variable: --color-text-pink\nText Color: #AD1A72"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/purple-135f6d94771f81f6a524c0dab9e2b802": {
+    "title": "Purple",
+    "slug": "purple-135f6d94771f81f6a524c0dab9e2b802",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/purple-135f6d94771f81f6a524c0dab9e2b802",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #EAE4F2\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 103,36,222,0.2\nText CSS Variable: --color-text-purple\nText Color: #6940A5"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/red-135f6d94771f8185bb35fc8bd08096a0": {
+    "title": "Red",
+    "slug": "red-135f6d94771f8185bb35fc8bd08096a0",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/red-135f6d94771f8185bb35fc8bd08096a0",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #FBE4E4\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,0,26,0.2\nText CSS Variable: --color-text-red\nText Color: #E03E3E"
+  },
+  "resources-overview/template-page/using-aether/documentation/light-mode/yellow-135f6d94771f8142a012ecb6cf0ff5d9": {
+    "title": "Yellow",
+    "slug": "yellow-135f6d94771f8142a012ecb6cf0ff5d9",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/light-mode/yellow-135f6d94771f8142a012ecb6cf0ff5d9",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #FBF3DB\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 233,168,0,0.2\nText CSS Variable: --color-text-yellow\nText Color: #DFAB01"
+  },
+  "resources-overview/template-page/using-aether/documentation/untitled/135f6d94771f81b98f14eb36e051e5bc": {
+    "title": "@",
+    "slug": "135f6d94771f81b98f14eb36e051e5bc",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/untitled/135f6d94771f81b98f14eb36e051e5bc",
+    "content": "# @\n\nValue: 76.76.21.21\nType: A"
+  },
+  "resources-overview/template-page/using-aether/documentation/untitled/www-135f6d94771f8141bba0fa6eea6bf7ce": {
+    "title": "www",
+    "slug": "www-135f6d94771f8141bba0fa6eea6bf7ce",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/untitled/www-135f6d94771f8141bba0fa6eea6bf7ce",
+    "content": "# www\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "resources-overview/template-page/using-aether/documentation/untitled-135f-8510/your-subdomain-135f6d94771f814fb2b3fcb67f2fda16": {
+    "title": "(your subdomain)",
+    "slug": "your-subdomain-135f6d94771f814fb2b3fcb67f2fda16",
+    "fullSlug": "resources-overview/template-page/using-aether/documentation/untitled-135f-8510/your-subdomain-135f6d94771f814fb2b3fcb67f2fda16",
+    "content": "# (your subdomain)\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "sales/chain-of-beliefs-framework-139f6d94771f8119b74df55b5618dca8": {
+    "title": "Chain Of Beliefs Framework",
+    "slug": "chain-of-beliefs-framework-139f6d94771f8119b74df55b5618dca8",
+    "fullSlug": "sales/chain-of-beliefs-framework-139f6d94771f8119b74df55b5618dca8",
+    "content": "# Chain Of Beliefs Framework\n\n- Control panel ⚡️\n    \n    [Template page](/resources/template-page-143f6d94771f81c8bf07d1ef30f11ada)\n    \n\n# **Chain of Beliefs Explanation**\n\nImagine someone says, *“I can jump over a moving car.”* Your first reaction would likely be, *“No way, that’s impossible!”* But what would need to be true for you to believe them?\n\nNow, suppose they add, *“I’m 6’10” and have been playing basketball for 15+ years. I can jump over a moving car.”* Suddenly, it seems more plausible. But for this claim to fully convince you, more context would help.\n\nThey continue: *“I’ve played basketball since I was a kid and earned a full-ride scholarship to a Division 1 college. You can check my highlights on LSU’s website, including a video of me dunking over a 6’6” center. I can jump over a moving car.”*\n\nAt this point, their claim feels believable. You might not even need to watch their highlights because they’ve provided credibility, social proof, and reasoning that supports their ability to jump over a car.\n\n## What’s the Point?\n\n<div class=\"callout\">\nIn order for someone to believe something they need to be given proof.\n\n</div>\n\nThis same framework applies to creating offers.\n\nLet’s say someone approaches you and says, *“I can double your organic traffic in 90 days. Would that be helpful?”* Your immediate reaction might be skepticism:\n\n- *“Who are you?”*\n- *“Have you actually done this before?”*\n- *“Why should I believe you?”*\n\nNow imagine their pitch goes like this:\n\n*“I’m Joe, an SEO consultant with experience working for multiple 8- and 9-figure companies. I’ve done X, Y, and Z for brands like ABC and DEF. Here are my results: in my last 7 projects, I’ve doubled inbound traffic within 90 days. Would that be helpful to you?”*\n\nThis version is far more convincing. You now have context, proof, and credibility, which make it easier to trust their offer and consider working with them.\n\nMind you this is just a very generic example but the point I’m getting at here is this:\n\n<div class=\"callout\">\n💡 **If you say a statement, think about what NEEDS to be true in order for that statement to be believable & make someone trust you**\n\n</div>\n\n← Previous\n\n[Sales](/resources/sales-b3107133804743718338283d16568056)\n\nNext →\n\n[Leverage Offers, Guarantees, Case Studies](/resources/leverage-offers-guarantees-case-studies-a3a1cadae91444c39559c968d132007b)\n\nOn this page"
+  },
+  "sales/leverage-offers-guarantees-case-studies-a3a1cadae91444c39559c968d132007b": {
+    "title": "Leverage offers, guarantees, case studies",
+    "slug": "leverage-offers-guarantees-case-studies-a3a1cadae91444c39559c968d132007b",
+    "fullSlug": "sales/leverage-offers-guarantees-case-studies-a3a1cadae91444c39559c968d132007b",
+    "content": "# Leverage offers, guarantees, case studies\n\n- Control panel ⚡️\n    \n    [Template page](/resources/template-page-143f6d94771f81538d3fe6321b3dc785)\n    \n\n# **Leverage offers, guarantees, case studies**\n\n---\n\n**(Coming Soon)**\n\n← Previous\n\n[Chain Of Beliefs Framework](/resources/chain-of-beliefs-framework-139f6d94771f8119b74df55b5618dca8)\n\nNext →\n\n[Positioning](/resources/positioning-8882ed20626949958c6e07fafd6c61ef)\n\nOn this page"
+  },
+  "sales/positioning-8882ed20626949958c6e07fafd6c61ef": {
+    "title": "Positioning",
+    "slug": "positioning-8882ed20626949958c6e07fafd6c61ef",
+    "fullSlug": "sales/positioning-8882ed20626949958c6e07fafd6c61ef",
+    "content": "# Positioning\n\n- Control panel ⚡️\n    \n    [Template page](/resources/template-page-143f6d94771f81a5b71bd98925c1c5a6)\n    \n\n# Positioning\n\n---\n\nPositioning is the cornerstone of sales and business success. It’s about finding your unique spot in the minds of your target audience and showing why you're the best choice for their needs.\n\nThink of positioning as creating a strong mental association between your agency and the results your clients want. On sales calls, positioning means guiding prospects through objections and framing your offer as the exact solution they need—before objections even arise.\n\n**Good positioning explains:**\n\n- What sets you apart.\n- Why you're the solution they’ve been looking for.\n- How your services align with their goals.\n\n# **Why Is Positioning Important?**\n\nPositioning shapes how people perceive your agency and whether they decide to work with you. It influences your ability to:\n\n- Close sales.\n- Retain clients.\n- Charge higher prices\n\n### **Key Benefits of Strong Positioning:**\n\n1. **Standing Out:** Cut through the noise and make it clear why you're different and better.\n2. **Clarity for Clients:** Help them easily understand why they should choose you.\n3. **Marketing Direction:** A strong position drives consistent, effective messaging across all your marketing efforts.\n4. **Attracting Ideal Clients:** Speak the language of the clients you want, drawing in the ones who align best with your expertise.\n5. **Commanding Higher Prices:** With clear positioning, clients see your value and are willing to pay more for it.\n\n## **Pricing Is About Perceived Value**\n\nPositioning directly affects what you can charge. The difference between agencies charging $150 per call, $3,5K monthly retainer, $30K one-time system setup and $150K per year consulting with revenue share is positioning. \n\nLead generation is the core of all these offers, however it’s the way they’re positioned that allows people selling them to charge higher prices. Similar value, completely different perception. \n\n### **How to Elevate Your Positioning:**\n\n1. **Change Your Pricing Model:** Move from pay-per-call to retainers or performance-based pricing.\n2. **Provide Added Value:** Offer extras like sales scripts, call frameworks, LinkedIn optimization, or pipeline management.\n3. **Niche Down:** Focus on serving a specific industry where you can build deep expertise and deliver outsized value.\n\n### **Examples of Improved Positioning**\n\n- A **copywriter** moves from charging $1,000 for web copy to earning $10,000+ per client by taking a percentage of conversion uplifts.\n- An **SEO agency** shifts from \"getting rankings\" to focusing on directly increasing client revenue, enabling premium pricing.\n- A **lead gen agency** evolves from selling a fixed number of leads to becoming an **outsourced sales department** responsible for measurable revenue growth.\n\n# **Positioning in Sales**\n\nTo position your offer effectively during sales calls, you **need** to understand your prospect’s pain points and goals. Double the time spent in the discovery phase of the sales call to deeply understand what your client is looking for. You can only effectively position your offer to meet their needs once you have a deep understanding of their challenges and goals.\n\n## **Tailoring Your Positioning**\n\n**Scenario:** The prospect tried lead generation before but got poor results because sales calls were unqualified, wasting the CEO’s time.\n\n**How to Position Your Offer:**\n\n- Highlight that your service delivers only **triple-verified leads** to ensure high-intent sales calls.\n- Emphasize how this protects the CEO’s time while increasing their close rate.\n- Include additional value like sales process setup and lead nurturing strategies.\n\nNow, your offer is not just lead generation—it’s a comprehensive solution to their specific struggles.\n\n## **Why This Works:**\n\n- You justify higher prices by addressing pain points directly.\n- You stand out from competitors offering generic solutions.\n- You build trust by aligning your service with their specific needs.\n\n# **How to Create a Winning Positioning Strategy**\n\n1. **Understand Your Target Market:** Know their challenges, desires, and what keeps them up at night.\n2. **Analyze Competitors:** Identify gaps in the market and position yourself to fill them.\n3. **Clarify Your Unique Value Proposition (UVP):** Clearly communicate the outcomes only you can deliver.\n4. **Communicate Consistently:** Ensure all messaging aligns with your positioning.\n5. **Leverage Social Proof:** Use testimonials and case studies to validate your claims.\n6. **Adapt and Evolve:** Revisit your positioning regularly to ensure it stays relevant and effective.\n\n### An Example Of How A Slight Tweak In Your Positioning Can Help You Charge 10x More\n\n<div class=\"callout\">\n💡 Stacking your value is a SUPER EASY way for you to better position your offer and it’s value, allowing you to in some case, quite literally, charge 10x more for the SAME thing!\n\n</div>\n\n← Previous\n\n[Leverage](/resources/leverage-offers-guarantees-case-studies-a3a1cadae91444c39559c968d132007b)\n\nNext →\n\n[Sales Assets & Lead Magnets](/resources/sales-assets-lead-magnets-cbca5d59da26412ab21339f42f8ee1b7)\n\nOn this page"
+  },
+  "sales/qualifying-prospects-sales-process-bb4ec3aee76f4469bcb050e0056f4bb8": {
+    "title": "Qualifying Prospects & Sales Process",
+    "slug": "qualifying-prospects-sales-process-bb4ec3aee76f4469bcb050e0056f4bb8",
+    "fullSlug": "sales/qualifying-prospects-sales-process-bb4ec3aee76f4469bcb050e0056f4bb8",
+    "content": "# Qualifying Prospects & Sales Process\n\n- Control panel ⚡️\n    \n    [Template page](/resources/template-page-143f6d94771f81d8aebec2fc24cc210b)\n    \n\n## Qualifying Prospects\n\n---\n\n[Qualifying Prospects](/resources/qualifying-prospects-8f149d3900b0467f8662b49e77408c51)\n\n# Sales Process\n\n[Sales Process](/resources/sales-process-a47db76ec6ae4f08806ae1d892323e43)\n\n← Previous\n\n[Sales Assets & Lead Magnets](/resources/sales-assets-lead-magnets-cbca5d59da26412ab21339f42f8ee1b7)\n\nNext →\n\n[Sales Calls](/resources/sales-calls-a878e321022a4eafa1ce47d12bbc566b)\n\nOn this page"
+  }
+}

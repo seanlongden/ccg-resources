@@ -1,0 +1,302 @@
+{
+  "main-modules/template-page/design-system/using-aether/documentation/dark-mode/gray-142f6d94771f81bd8ae0eb6625f09d94": {
+    "title": "Gray",
+    "slug": "gray-142f6d94771f81bd8ae0eb6625f09d94",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/dark-mode/gray-142f6d94771f81bd8ae0eb6625f09d94",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #454B4E\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 151,154,155,0.5\nText CSS Variable: --color-text-gray\nText Color: 151,154,155,0.95"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/dark-mode/green-142f6d94771f818e8775c187481258cb": {
+    "title": "Green",
+    "slug": "green-142f6d94771f818e8775c187481258cb",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/dark-mode/green-142f6d94771f818e8775c187481258cb",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #354C4B\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 77,171,154,0.5\nText CSS Variable: --color-text-green\nText Color: #4DAB9A"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/dark-mode/orange-142f6d94771f81f88193cc8243ae7b68": {
+    "title": "Orange",
+    "slug": "orange-142f6d94771f81f88193cc8243ae7b68",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/dark-mode/orange-142f6d94771f81f88193cc8243ae7b68",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #594A3A\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 255,163,68,0.5\nText CSS Variable: --color-text-orange\nText Color: #FFA344"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/dark-mode/pink-142f6d94771f817087d9df22ba389f61": {
+    "title": "Pink",
+    "slug": "pink-142f6d94771f817087d9df22ba389f61",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/dark-mode/pink-142f6d94771f817087d9df22ba389f61",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #533B4C\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 226,85,161,0.5\nText CSS Variable: --color-text-pink\nText Color: #E255A1"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/dark-mode/purple-142f6d94771f81bc949be3dcaa70ab21": {
+    "title": "Purple",
+    "slug": "purple-142f6d94771f81bc949be3dcaa70ab21",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/dark-mode/purple-142f6d94771f81bc949be3dcaa70ab21",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #443F57\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 154,109,215,0.5\nText CSS Variable: --color-text-purple\nText Color: #9A6DD7"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/dark-mode/red-142f6d94771f81288960e2c6641e88a5": {
+    "title": "Red",
+    "slug": "red-142f6d94771f81288960e2c6641e88a5",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/dark-mode/red-142f6d94771f81288960e2c6641e88a5",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #594141\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,115,105,0.5\nText CSS Variable: --color-text-red\nText Color: #FF7369"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/dark-mode/yellow-142f6d94771f81118b7cd27c49bec363": {
+    "title": "Yellow",
+    "slug": "yellow-142f6d94771f81118b7cd27c49bec363",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/dark-mode/yellow-142f6d94771f81118b7cd27c49bec363",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #59563B\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 255,220,73,0.5\nText CSS Variable: --color-text-yellow\nText Color: #FFDC49"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/design-system/primary-colors/aether-blue-142f6d94771f818cb402f82155ac1062": {
+    "title": "Aether Blue",
+    "slug": "aether-blue-142f6d94771f818cb402f82155ac1062",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/design-system/primary-colors/aether-blue-142f6d94771f818cb402f82155ac1062",
+    "content": "# Aether Blue\n\nCreated: November 18, 2024 4:45 AM\nHEX: #1ca0f1"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/design-system/primary-colors/aether-dark-142f6d94771f81709b17e7a4153c3797": {
+    "title": "Aether Dark",
+    "slug": "aether-dark-142f6d94771f81709b17e7a4153c3797",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/design-system/primary-colors/aether-dark-142f6d94771f81709b17e7a4153c3797",
+    "content": "# Aether Dark\n\nCreated: November 18, 2024 4:45 AM\nHEX: #424b55"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/design-system/secondary-colors/shade-1-142f6d94771f81ceb205da640f40891e": {
+    "title": "Shade 1",
+    "slug": "shade-1-142f6d94771f81ceb205da640f40891e",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/design-system/secondary-colors/shade-1-142f6d94771f81ceb205da640f40891e",
+    "content": "# Shade 1\n\nCreated: November 18, 2024 4:45 AM\nHEX: #60bdf5"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/design-system/secondary-colors/shade-2-142f6d94771f8116874ad4af5f162473": {
+    "title": "Shade 2",
+    "slug": "shade-2-142f6d94771f8116874ad4af5f162473",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/design-system/secondary-colors/shade-2-142f6d94771f8116874ad4af5f162473",
+    "content": "# Shade 2\n\nCreated: November 18, 2024 4:45 AM\nHEX: #90d1f8"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/design-system/secondary-colors/shade-3-142f6d94771f8113a4dfed7a50f470d3": {
+    "title": "Shade 3",
+    "slug": "shade-3-142f6d94771f8113a4dfed7a50f470d3",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/design-system/secondary-colors/shade-3-142f6d94771f8113a4dfed7a50f470d3",
+    "content": "# Shade 3\n\nCreated: November 18, 2024 4:45 AM\nHEX: #b1dffa"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/blue-142f6d94771f8190a264ca1808658a1f": {
+    "title": "Blue",
+    "slug": "blue-142f6d94771f8190a264ca1808658a1f",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/blue-142f6d94771f8190a264ca1808658a1f",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #DDEBF1\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 0,120,223,0.2\nText CSS Variable: --color-text-blue\nText Color: #0B6E99"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/brown-142f6d94771f8151824ad7f54ec31096": {
+    "title": "Brown",
+    "slug": "brown-142f6d94771f8151824ad7f54ec31096",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/brown-142f6d94771f8151824ad7f54ec31096",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #E9E5E3\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 140,46,0,0.2\nText CSS Variable: --color-text-brown\nText Color: #64473A"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/default-142f6d94771f81f48957e8880b9818c3": {
+    "title": "Default",
+    "slug": "default-142f6d94771f81f48957e8880b9818c3",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/default-142f6d94771f81f48957e8880b9818c3",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #FFFFFF\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: #37352F"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/gray-142f6d94771f815684f4d7d4ddacb1b6": {
+    "title": "Gray",
+    "slug": "gray-142f6d94771f815684f4d7d4ddacb1b6",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/gray-142f6d94771f815684f4d7d4ddacb1b6",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #EBECED\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 155,154,151,0.4\nText CSS Variable: --color-text-gray\nText Color: #9B9A97"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/green-142f6d94771f810b8cbfcf1893b58ffe": {
+    "title": "Green",
+    "slug": "green-142f6d94771f810b8cbfcf1893b58ffe",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/green-142f6d94771f810b8cbfcf1893b58ffe",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #DDEDEA\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 0,135,107,0.2\nText CSS Variable: --color-text-green\nText Color: #0F7B6C"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/orange-142f6d94771f81d5a844c7fde82b54bc": {
+    "title": "Orange",
+    "slug": "orange-142f6d94771f81d5a844c7fde82b54bc",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/orange-142f6d94771f81d5a844c7fde82b54bc",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #FAEBDD\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 245,93,0,0.2\nText CSS Variable: --color-text-orange\nText Color: #D9730D"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/pink-142f6d94771f817d89acc3b2405d6494": {
+    "title": "Pink",
+    "slug": "pink-142f6d94771f817d89acc3b2405d6494",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/pink-142f6d94771f817d89acc3b2405d6494",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #F4DFEB\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 221,0,129,0.2\nText CSS Variable: --color-text-pink\nText Color: #AD1A72"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/purple-142f6d94771f818c8c44ca86bd7240cd": {
+    "title": "Purple",
+    "slug": "purple-142f6d94771f818c8c44ca86bd7240cd",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/purple-142f6d94771f818c8c44ca86bd7240cd",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #EAE4F2\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 103,36,222,0.2\nText CSS Variable: --color-text-purple\nText Color: #6940A5"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/red-142f6d94771f817987a7ff0cde015c67": {
+    "title": "Red",
+    "slug": "red-142f6d94771f817987a7ff0cde015c67",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/red-142f6d94771f817987a7ff0cde015c67",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #FBE4E4\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,0,26,0.2\nText CSS Variable: --color-text-red\nText Color: #E03E3E"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/light-mode/yellow-142f6d94771f81d094a5f051ce4c22e2": {
+    "title": "Yellow",
+    "slug": "yellow-142f6d94771f81d094a5f051ce4c22e2",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/light-mode/yellow-142f6d94771f81d094a5f051ce4c22e2",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #FBF3DB\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 233,168,0,0.2\nText CSS Variable: --color-text-yellow\nText Color: #DFAB01"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/untitled/142f6d94771f81dfb1c2f453f6b487ac": {
+    "title": "@",
+    "slug": "142f6d94771f81dfb1c2f453f6b487ac",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/untitled/142f6d94771f81dfb1c2f453f6b487ac",
+    "content": "# @\n\nValue: 76.76.21.21\nType: A"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/untitled/www-142f6d94771f819db913f400f1eb7b88": {
+    "title": "www",
+    "slug": "www-142f6d94771f819db913f400f1eb7b88",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/untitled/www-142f6d94771f819db913f400f1eb7b88",
+    "content": "# www\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "main-modules/template-page/design-system/using-aether/documentation/untitled-142f-c63c/your-subdomain-142f6d94771f8109861bd9d897453d6c": {
+    "title": "(your subdomain)",
+    "slug": "your-subdomain-142f6d94771f8109861bd9d897453d6c",
+    "fullSlug": "main-modules/template-page/design-system/using-aether/documentation/untitled-142f-c63c/your-subdomain-142f6d94771f8109861bd9d897453d6c",
+    "content": "# (your subdomain)\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "main-modules/template-page/documentation/dark-mode/blue-142f6d94771f81c9b832e3313a54cc06": {
+    "title": "Blue",
+    "slug": "blue-142f6d94771f81c9b832e3313a54cc06",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/blue-142f6d94771f81c9b832e3313a54cc06",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #364954\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 82,156,202,0.5\nText CSS Variable: --color-text-blue\nText Color: #529CCA"
+  },
+  "main-modules/template-page/documentation/dark-mode/brown-142f6d94771f81048c70c49308a7ac5b": {
+    "title": "Brown",
+    "slug": "brown-142f6d94771f81048c70c49308a7ac5b",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/brown-142f6d94771f81048c70c49308a7ac5b",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #434040\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 147,114,100,0.5\nText CSS Variable: --color-text-brown\nText Color: #937264"
+  },
+  "main-modules/template-page/documentation/dark-mode/default-142f6d94771f81809922d8df9ed55fd3": {
+    "title": "Default",
+    "slug": "default-142f6d94771f81809922d8df9ed55fd3",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/default-142f6d94771f81809922d8df9ed55fd3",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #2F3437\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: 255,255,255,0.9"
+  },
+  "main-modules/template-page/documentation/dark-mode/gray-142f6d94771f81f9a5dad0bd15e03828": {
+    "title": "Gray",
+    "slug": "gray-142f6d94771f81f9a5dad0bd15e03828",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/gray-142f6d94771f81f9a5dad0bd15e03828",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #454B4E\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 151,154,155,0.5\nText CSS Variable: --color-text-gray\nText Color: 151,154,155,0.95"
+  },
+  "main-modules/template-page/documentation/dark-mode/green-142f6d94771f81d1be3ce673bf7b159a": {
+    "title": "Green",
+    "slug": "green-142f6d94771f81d1be3ce673bf7b159a",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/green-142f6d94771f81d1be3ce673bf7b159a",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #354C4B\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 77,171,154,0.5\nText CSS Variable: --color-text-green\nText Color: #4DAB9A"
+  },
+  "main-modules/template-page/documentation/dark-mode/orange-142f6d94771f81d7b559f613a4128e5f": {
+    "title": "Orange",
+    "slug": "orange-142f6d94771f81d7b559f613a4128e5f",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/orange-142f6d94771f81d7b559f613a4128e5f",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #594A3A\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 255,163,68,0.5\nText CSS Variable: --color-text-orange\nText Color: #FFA344"
+  },
+  "main-modules/template-page/documentation/dark-mode/pink-142f6d94771f81ffbbb3f67872619366": {
+    "title": "Pink",
+    "slug": "pink-142f6d94771f81ffbbb3f67872619366",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/pink-142f6d94771f81ffbbb3f67872619366",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #533B4C\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 226,85,161,0.5\nText CSS Variable: --color-text-pink\nText Color: #E255A1"
+  },
+  "main-modules/template-page/documentation/dark-mode/purple-142f6d94771f81739433efc055ac626d": {
+    "title": "Purple",
+    "slug": "purple-142f6d94771f81739433efc055ac626d",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/purple-142f6d94771f81739433efc055ac626d",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #443F57\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 154,109,215,0.5\nText CSS Variable: --color-text-purple\nText Color: #9A6DD7"
+  },
+  "main-modules/template-page/documentation/dark-mode/red-142f6d94771f81379281cf11082df873": {
+    "title": "Red",
+    "slug": "red-142f6d94771f81379281cf11082df873",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/red-142f6d94771f81379281cf11082df873",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #594141\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,115,105,0.5\nText CSS Variable: --color-text-red\nText Color: #FF7369"
+  },
+  "main-modules/template-page/documentation/dark-mode/yellow-142f6d94771f81cc8081fc82f127199f": {
+    "title": "Yellow",
+    "slug": "yellow-142f6d94771f81cc8081fc82f127199f",
+    "fullSlug": "main-modules/template-page/documentation/dark-mode/yellow-142f6d94771f81cc8081fc82f127199f",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #59563B\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 255,220,73,0.5\nText CSS Variable: --color-text-yellow\nText Color: #FFDC49"
+  },
+  "main-modules/template-page/documentation/light-mode/blue-142f6d94771f81469d3ac8426fcab8f1": {
+    "title": "Blue",
+    "slug": "blue-142f6d94771f81469d3ac8426fcab8f1",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/blue-142f6d94771f81469d3ac8426fcab8f1",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #DDEBF1\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 0,120,223,0.2\nText CSS Variable: --color-text-blue\nText Color: #0B6E99"
+  },
+  "main-modules/template-page/documentation/light-mode/brown-142f6d94771f816d9830e718a7ec83d7": {
+    "title": "Brown",
+    "slug": "brown-142f6d94771f816d9830e718a7ec83d7",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/brown-142f6d94771f816d9830e718a7ec83d7",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #E9E5E3\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 140,46,0,0.2\nText CSS Variable: --color-text-brown\nText Color: #64473A"
+  },
+  "main-modules/template-page/documentation/light-mode/default-142f6d94771f81fba79be26951b35ddd": {
+    "title": "Default",
+    "slug": "default-142f6d94771f81fba79be26951b35ddd",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/default-142f6d94771f81fba79be26951b35ddd",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #FFFFFF\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: #37352F"
+  },
+  "main-modules/template-page/documentation/light-mode/gray-142f6d94771f81b19295eaff9a2a9f0b": {
+    "title": "Gray",
+    "slug": "gray-142f6d94771f81b19295eaff9a2a9f0b",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/gray-142f6d94771f81b19295eaff9a2a9f0b",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #EBECED\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 155,154,151,0.4\nText CSS Variable: --color-text-gray\nText Color: #9B9A97"
+  },
+  "main-modules/template-page/documentation/light-mode/green-142f6d94771f813cb35ac083292d5581": {
+    "title": "Green",
+    "slug": "green-142f6d94771f813cb35ac083292d5581",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/green-142f6d94771f813cb35ac083292d5581",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #DDEDEA\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 0,135,107,0.2\nText CSS Variable: --color-text-green\nText Color: #0F7B6C"
+  },
+  "main-modules/template-page/documentation/light-mode/orange-142f6d94771f8191bc13e8d24b3141b7": {
+    "title": "Orange",
+    "slug": "orange-142f6d94771f8191bc13e8d24b3141b7",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/orange-142f6d94771f8191bc13e8d24b3141b7",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #FAEBDD\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 245,93,0,0.2\nText CSS Variable: --color-text-orange\nText Color: #D9730D"
+  },
+  "main-modules/template-page/documentation/light-mode/pink-142f6d94771f817ab2f6c13960f5d835": {
+    "title": "Pink",
+    "slug": "pink-142f6d94771f817ab2f6c13960f5d835",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/pink-142f6d94771f817ab2f6c13960f5d835",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #F4DFEB\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 221,0,129,0.2\nText CSS Variable: --color-text-pink\nText Color: #AD1A72"
+  },
+  "main-modules/template-page/documentation/light-mode/purple-142f6d94771f814c95b1e883391bf6ac": {
+    "title": "Purple",
+    "slug": "purple-142f6d94771f814c95b1e883391bf6ac",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/purple-142f6d94771f814c95b1e883391bf6ac",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #EAE4F2\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 103,36,222,0.2\nText CSS Variable: --color-text-purple\nText Color: #6940A5"
+  },
+  "main-modules/template-page/documentation/light-mode/red-142f6d94771f8174a076e0b47c49bb74": {
+    "title": "Red",
+    "slug": "red-142f6d94771f8174a076e0b47c49bb74",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/red-142f6d94771f8174a076e0b47c49bb74",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #FBE4E4\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,0,26,0.2\nText CSS Variable: --color-text-red\nText Color: #E03E3E"
+  },
+  "main-modules/template-page/documentation/light-mode/yellow-142f6d94771f8190827cde5afc02b4e0": {
+    "title": "Yellow",
+    "slug": "yellow-142f6d94771f8190827cde5afc02b4e0",
+    "fullSlug": "main-modules/template-page/documentation/light-mode/yellow-142f6d94771f8190827cde5afc02b4e0",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #FBF3DB\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 233,168,0,0.2\nText CSS Variable: --color-text-yellow\nText Color: #DFAB01"
+  },
+  "main-modules/template-page/documentation/untitled/142f6d94771f811ca472de1fb762effc": {
+    "title": "@",
+    "slug": "142f6d94771f811ca472de1fb762effc",
+    "fullSlug": "main-modules/template-page/documentation/untitled/142f6d94771f811ca472de1fb762effc",
+    "content": "# @\n\nValue: 76.76.21.21\nType: A"
+  },
+  "main-modules/template-page/documentation/untitled/www-142f6d94771f8171988ec0dd05a56062": {
+    "title": "www",
+    "slug": "www-142f6d94771f8171988ec0dd05a56062",
+    "fullSlug": "main-modules/template-page/documentation/untitled/www-142f6d94771f8171988ec0dd05a56062",
+    "content": "# www\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "main-modules/template-page/documentation/untitled-142f-f2bd/your-subdomain-142f6d94771f81729992ca6e75ca87c4": {
+    "title": "(your subdomain)",
+    "slug": "your-subdomain-142f6d94771f81729992ca6e75ca87c4",
+    "fullSlug": "main-modules/template-page/documentation/untitled-142f-f2bd/your-subdomain-142f6d94771f81729992ca6e75ca87c4",
+    "content": "# (your subdomain)\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "main-modules/template-page/getting-started/design-system-142f6d94771f818599b2df4734a9d867": {
+    "title": "Design System",
+    "slug": "design-system-142f6d94771f818599b2df4734a9d867",
+    "fullSlug": "main-modules/template-page/getting-started/design-system-142f6d94771f818599b2df4734a9d867",
+    "content": "# Design System\n\nUse cases\n\n# Design System\n\n> Aether is also perfect for design systems and guidelines\n> \n\n## **Mission Statement**\n\nOur mission is to create the most beautiful documentation template for Super and Notion.\n\n## **Values**\n\n- Minimalism\n- Transparency\n- Forward-thinking\n\n### Logomark\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 1.svg](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_1.svg)\n\n## Icon\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 5.svg](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_5.svg)\n\n![Frame 2.svg](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_2.svg)\n\n![Frame 6.svg](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_6.svg)\n\n### Primary Colors\n\n[Primary Colors](Design%20System/Primary%20Colors%20142f6d94771f81e5adbfd52a2d903454.csv)\n\n### Secondary Colors\n\n[Secondary Colors](Design%20System/Secondary%20Colors%20142f6d94771f81fa87a4fb6691d5d31b.csv)\n\n← Previous\n\n[Documentation example](https://www.notion.so/c893cd9cef6049fdbfb642a3fb655b69?pvs=21)"
+  },
+  "main-modules/template-page/getting-started/getting-started-142f6d94771f81baa0c6fc463527d5b0": {
+    "title": "Getting Started",
+    "slug": "getting-started-142f6d94771f81baa0c6fc463527d5b0",
+    "fullSlug": "main-modules/template-page/getting-started/getting-started-142f6d94771f81baa0c6fc463527d5b0",
+    "content": "# Getting Started\n\n# Getting Started\n\n> Welcome to Aether, to get started all you need is a [Notion](https://affiliate.notion.so/cxvpa1a3ocar) & [Super](https://super.so) account.\n> \n\n## 1. Duplicate Notion page\n\nThe first step to using this template is to duplicate this Notion page to your own workspace. Click the button below to open the Notion page.\n\n[**Duplicate Notion page**](https://s.super.so/aether)\n\n## 2. Create a Super site\n\nThen, head to your [Super dashboard](https://app.super.so) and create a new site using the public URL of your newly duplicated Notion page. [Learn how to do that here.](https://docs.super.site/creating-a-site)\n\n## 3. Add the style snippet\n\nThen, head to your site settings (gear icon) and into the code page. Then inside the 'Head' tab, paste the following code snippet.\n\n```html\n<link rel=\"stylesheet\" href=\"https://sites.super.so/aether/style.css\"/>\n```\n\n## 4. Add the script snippet\n\nThen inside the 'Body' tab, paste the following code snippet.\n\n```html\n<script src=\"https://sites.super.so/aether/script.js\"></script>\n```\n\n## 5. Add a footer and navbar\n\nFinally, in your site settings be sure to add a footer and navbar.\n\n<div class=\"callout\">\n💡 And just like magic, you should now see the Aether template in your dashboard preview. There's a few extra quirks to customizing and making the most out of the Aether template, check the **'Using Aether'** page to learn more ↓\n\n</div>\n\nNext →\n\n[Using Aether](https://www.notion.so/8fa99420c5c04ff8b06967b8815fbcaf?pvs=21)"
+  }
+}

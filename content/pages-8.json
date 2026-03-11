@@ -1,0 +1,302 @@
+{
+  "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/light-mode/purple-142f6d94771f818ea00ee8e3d54c35bd": {
+    "title": "Purple",
+    "slug": "purple-142f6d94771f818ea00ee8e3d54c35bd",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/light-mode/purple-142f6d94771f818ea00ee8e3d54c35bd",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #EAE4F2\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 103,36,222,0.2\nText CSS Variable: --color-text-purple\nText Color: #6940A5"
+  },
+  "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/light-mode/red-142f6d94771f81448bb2dd4876f9c63b": {
+    "title": "Red",
+    "slug": "red-142f6d94771f81448bb2dd4876f9c63b",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/light-mode/red-142f6d94771f81448bb2dd4876f9c63b",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #FBE4E4\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,0,26,0.2\nText CSS Variable: --color-text-red\nText Color: #E03E3E"
+  },
+  "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/light-mode/yellow-142f6d94771f81199348ff35c6ea6e46": {
+    "title": "Yellow",
+    "slug": "yellow-142f6d94771f81199348ff35c6ea6e46",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/light-mode/yellow-142f6d94771f81199348ff35c6ea6e46",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #FBF3DB\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 233,168,0,0.2\nText CSS Variable: --color-text-yellow\nText Color: #DFAB01"
+  },
+  "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/untitled/142f6d94771f815ab3acf70478b3f9b2": {
+    "title": "@",
+    "slug": "142f6d94771f815ab3acf70478b3f9b2",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/untitled/142f6d94771f815ab3acf70478b3f9b2",
+    "content": "# @\n\nValue: 76.76.21.21\nType: A"
+  },
+  "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/untitled/www-142f6d94771f815e9958fc689a937acc": {
+    "title": "www",
+    "slug": "www-142f6d94771f815e9958fc689a937acc",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/untitled/www-142f6d94771f815e9958fc689a937acc",
+    "content": "# www\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/untitled-142f-d3cb/your-subdomain-142f6d94771f81dda6d9e7e166b3b1c4": {
+    "title": "(your subdomain)",
+    "slug": "your-subdomain-142f6d94771f81dda6d9e7e166b3b1c4",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/design-system/using-aether/documentation/untitled-142f-d3cb/your-subdomain-142f6d94771f81dda6d9e7e166b3b1c4",
+    "content": "# (your subdomain)\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/blue-142f6d94771f8176a7fcdc06126ce905": {
+    "title": "Blue",
+    "slug": "blue-142f6d94771f8176a7fcdc06126ce905",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/blue-142f6d94771f8176a7fcdc06126ce905",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #364954\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 82,156,202,0.5\nText CSS Variable: --color-text-blue\nText Color: #529CCA"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/brown-142f6d94771f815b90a3cbe3f4136095": {
+    "title": "Brown",
+    "slug": "brown-142f6d94771f815b90a3cbe3f4136095",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/brown-142f6d94771f815b90a3cbe3f4136095",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #434040\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 147,114,100,0.5\nText CSS Variable: --color-text-brown\nText Color: #937264"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/default-142f6d94771f810cba85eb0af068770f": {
+    "title": "Default",
+    "slug": "default-142f6d94771f810cba85eb0af068770f",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/default-142f6d94771f810cba85eb0af068770f",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #2F3437\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: 255,255,255,0.9"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/gray-142f6d94771f81c7bf26fb0f8b433461": {
+    "title": "Gray",
+    "slug": "gray-142f6d94771f81c7bf26fb0f8b433461",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/gray-142f6d94771f81c7bf26fb0f8b433461",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #454B4E\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 151,154,155,0.5\nText CSS Variable: --color-text-gray\nText Color: 151,154,155,0.95"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/green-142f6d94771f81b0b451e7208daa2817": {
+    "title": "Green",
+    "slug": "green-142f6d94771f81b0b451e7208daa2817",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/green-142f6d94771f81b0b451e7208daa2817",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #354C4B\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 77,171,154,0.5\nText CSS Variable: --color-text-green\nText Color: #4DAB9A"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/orange-142f6d94771f817c9d9ce8c6d93b759c": {
+    "title": "Orange",
+    "slug": "orange-142f6d94771f817c9d9ce8c6d93b759c",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/orange-142f6d94771f817c9d9ce8c6d93b759c",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #594A3A\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 255,163,68,0.5\nText CSS Variable: --color-text-orange\nText Color: #FFA344"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/pink-142f6d94771f81f3873ce9eb02f0a467": {
+    "title": "Pink",
+    "slug": "pink-142f6d94771f81f3873ce9eb02f0a467",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/pink-142f6d94771f81f3873ce9eb02f0a467",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #533B4C\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 226,85,161,0.5\nText CSS Variable: --color-text-pink\nText Color: #E255A1"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/purple-142f6d94771f8180b44ff58bb663b00f": {
+    "title": "Purple",
+    "slug": "purple-142f6d94771f8180b44ff58bb663b00f",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/purple-142f6d94771f8180b44ff58bb663b00f",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #443F57\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 154,109,215,0.5\nText CSS Variable: --color-text-purple\nText Color: #9A6DD7"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/red-142f6d94771f8193be6ff0781709bcc0": {
+    "title": "Red",
+    "slug": "red-142f6d94771f8193be6ff0781709bcc0",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/red-142f6d94771f8193be6ff0781709bcc0",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #594141\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,115,105,0.5\nText CSS Variable: --color-text-red\nText Color: #FF7369"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/dark-mode/yellow-142f6d94771f81418e9cefb4d99443a2": {
+    "title": "Yellow",
+    "slug": "yellow-142f6d94771f81418e9cefb4d99443a2",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/dark-mode/yellow-142f6d94771f81418e9cefb4d99443a2",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #59563B\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 255,220,73,0.5\nText CSS Variable: --color-text-yellow\nText Color: #FFDC49"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/blue-142f6d94771f8188ac17d9a6431f3d78": {
+    "title": "Blue",
+    "slug": "blue-142f6d94771f8188ac17d9a6431f3d78",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/blue-142f6d94771f8188ac17d9a6431f3d78",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #DDEBF1\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 0,120,223,0.2\nText CSS Variable: --color-text-blue\nText Color: #0B6E99"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/brown-142f6d94771f8163a143dd04f9c40ee1": {
+    "title": "Brown",
+    "slug": "brown-142f6d94771f8163a143dd04f9c40ee1",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/brown-142f6d94771f8163a143dd04f9c40ee1",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #E9E5E3\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 140,46,0,0.2\nText CSS Variable: --color-text-brown\nText Color: #64473A"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/default-142f6d94771f8164b49ae805fbdbc2a1": {
+    "title": "Default",
+    "slug": "default-142f6d94771f8164b49ae805fbdbc2a1",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/default-142f6d94771f8164b49ae805fbdbc2a1",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #FFFFFF\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: #37352F"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/gray-142f6d94771f817499b0cb5613b2fd3c": {
+    "title": "Gray",
+    "slug": "gray-142f6d94771f817499b0cb5613b2fd3c",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/gray-142f6d94771f817499b0cb5613b2fd3c",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #EBECED\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 155,154,151,0.4\nText CSS Variable: --color-text-gray\nText Color: #9B9A97"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/green-142f6d94771f81ee897dfd82c35f1f82": {
+    "title": "Green",
+    "slug": "green-142f6d94771f81ee897dfd82c35f1f82",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/green-142f6d94771f81ee897dfd82c35f1f82",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #DDEDEA\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 0,135,107,0.2\nText CSS Variable: --color-text-green\nText Color: #0F7B6C"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/orange-142f6d94771f81c1a364f1d6699e40e0": {
+    "title": "Orange",
+    "slug": "orange-142f6d94771f81c1a364f1d6699e40e0",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/orange-142f6d94771f81c1a364f1d6699e40e0",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #FAEBDD\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 245,93,0,0.2\nText CSS Variable: --color-text-orange\nText Color: #D9730D"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/pink-142f6d94771f812ba0fed44a82bfe913": {
+    "title": "Pink",
+    "slug": "pink-142f6d94771f812ba0fed44a82bfe913",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/pink-142f6d94771f812ba0fed44a82bfe913",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #F4DFEB\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 221,0,129,0.2\nText CSS Variable: --color-text-pink\nText Color: #AD1A72"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/purple-142f6d94771f816eb7b1d50487902ba2": {
+    "title": "Purple",
+    "slug": "purple-142f6d94771f816eb7b1d50487902ba2",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/purple-142f6d94771f816eb7b1d50487902ba2",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #EAE4F2\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 103,36,222,0.2\nText CSS Variable: --color-text-purple\nText Color: #6940A5"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/red-142f6d94771f817bbb0be14a8ff6f075": {
+    "title": "Red",
+    "slug": "red-142f6d94771f817bbb0be14a8ff6f075",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/red-142f6d94771f817bbb0be14a8ff6f075",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #FBE4E4\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,0,26,0.2\nText CSS Variable: --color-text-red\nText Color: #E03E3E"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/light-mode/yellow-142f6d94771f81289e7edd4a40caa995": {
+    "title": "Yellow",
+    "slug": "yellow-142f6d94771f81289e7edd4a40caa995",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/light-mode/yellow-142f6d94771f81289e7edd4a40caa995",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #FBF3DB\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 233,168,0,0.2\nText CSS Variable: --color-text-yellow\nText Color: #DFAB01"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/untitled/142f6d94771f8144ad0dc14b78d1f194": {
+    "title": "@",
+    "slug": "142f6d94771f8144ad0dc14b78d1f194",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/untitled/142f6d94771f8144ad0dc14b78d1f194",
+    "content": "# @\n\nValue: 76.76.21.21\nType: A"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/untitled/www-142f6d94771f81908fe0eabc30a08ec4": {
+    "title": "www",
+    "slug": "www-142f6d94771f81908fe0eabc30a08ec4",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/untitled/www-142f6d94771f81908fe0eabc30a08ec4",
+    "content": "# www\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "main-modules/offers-guarantees-case-studies/documentation/untitled-142f-12bb/your-subdomain-142f6d94771f81a2a7c1dc16bd2f4837": {
+    "title": "(your subdomain)",
+    "slug": "your-subdomain-142f6d94771f81a2a7c1dc16bd2f4837",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/documentation/untitled-142f-12bb/your-subdomain-142f6d94771f81a2a7c1dc16bd2f4837",
+    "content": "# (your subdomain)\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "main-modules/offers-guarantees-case-studies/getting-started/design-system-142f6d94771f8108af72eda27b6d7c55": {
+    "title": "Design System",
+    "slug": "design-system-142f6d94771f8108af72eda27b6d7c55",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/getting-started/design-system-142f6d94771f8108af72eda27b6d7c55",
+    "content": "# Design System\n\nUse cases\n\n# Design System\n\n> Aether is also perfect for design systems and guidelines\n> \n\n## **Mission Statement**\n\nOur mission is to create the most beautiful documentation template for Super and Notion.\n\n## **Values**\n\n- Minimalism\n- Transparency\n- Forward-thinking\n\n### Logomark\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 1.svg](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_1.svg)\n\n## Icon\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 5.svg](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_5.svg)\n\n![Frame 2.svg](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_2.svg)\n\n![Frame 6.svg](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_6.svg)\n\n### Primary Colors\n\n[Primary Colors](Design%20System/Primary%20Colors%20142f6d94771f81cf81b7e68a13a8550e.csv)\n\n### Secondary Colors\n\n[Secondary Colors](Design%20System/Secondary%20Colors%20142f6d94771f819abb85d5ebbb495b5b.csv)\n\n← Previous\n\n[Documentation example](https://www.notion.so/c893cd9cef6049fdbfb642a3fb655b69?pvs=21)"
+  },
+  "main-modules/offers-guarantees-case-studies/getting-started/getting-started-142f6d94771f81d4af87f85953922545": {
+    "title": "Getting Started",
+    "slug": "getting-started-142f6d94771f81d4af87f85953922545",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/getting-started/getting-started-142f6d94771f81d4af87f85953922545",
+    "content": "# Getting Started\n\n# Getting Started\n\n> Welcome to Aether, to get started all you need is a [Notion](https://affiliate.notion.so/cxvpa1a3ocar) & [Super](https://super.so) account.\n> \n\n## 1. Duplicate Notion page\n\nThe first step to using this template is to duplicate this Notion page to your own workspace. Click the button below to open the Notion page.\n\n[**Duplicate Notion page**](https://s.super.so/aether)\n\n## 2. Create a Super site\n\nThen, head to your [Super dashboard](https://app.super.so) and create a new site using the public URL of your newly duplicated Notion page. [Learn how to do that here.](https://docs.super.site/creating-a-site)\n\n## 3. Add the style snippet\n\nThen, head to your site settings (gear icon) and into the code page. Then inside the 'Head' tab, paste the following code snippet.\n\n```html\n<link rel=\"stylesheet\" href=\"https://sites.super.so/aether/style.css\"/>\n```\n\n## 4. Add the script snippet\n\nThen inside the 'Body' tab, paste the following code snippet.\n\n```html\n<script src=\"https://sites.super.so/aether/script.js\"></script>\n```\n\n## 5. Add a footer and navbar\n\nFinally, in your site settings be sure to add a footer and navbar.\n\n<div class=\"callout\">\n💡 And just like magic, you should now see the Aether template in your dashboard preview. There's a few extra quirks to customizing and making the most out of the Aether template, check the **'Using Aether'** page to learn more ↓\n\n</div>\n\nNext →\n\n[Using Aether](https://www.notion.so/8fa99420c5c04ff8b06967b8815fbcaf?pvs=21)"
+  },
+  "main-modules/offers-guarantees-case-studies/getting-started/using-aether-142f6d94771f8127b945dbcabea625f2": {
+    "title": "Using Aether",
+    "slug": "using-aether-142f6d94771f8127b945dbcabea625f2",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/getting-started/using-aether-142f6d94771f8127b945dbcabea625f2",
+    "content": "# Using Aether\n\n# Using Aether\n\n> Aether comes with some additional custom features\n> \n\n## Left sidebar\n\nThe left hand sidebar, by default lists all the pages in your site and is wrapped in a synced block so that when you modify the content inside it will update throughout your site. This sidebar **will not** be visible on mobile devices so it is important to add page links to the mobile menu via the Super Navbar, learn more in the next step ↓\n\n## Adding page links to mobile menu\n\nSince the left sidebar will not be visible on mobile devices you need to manually add all your site pages to the links section inside a Super Navbar *(Site settings > Navbar > Navbar items)* so that they appear in a mobile menu. To make sure links don't appear in the navigation bar at the top, make sure to choose the **'Minimal'** Navbar type.\n\n![Manually adding site links via a Super Navbar to appear on Mobile Menu](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/mobile-links.gif)\n\nManually adding site links via a Super Navbar to appear on Mobile Menu\n\n## Right sidebar\n\nThe right hand sidebar, by default features a table of contents so users can navigate your pages with ease. The table of contents is wrapped in a synced block so when you modify the content inside it will update throughout your site. You can also delete the column, it would not break the template layout.\n\n## Primary color\n\nYou can easily switch the primary color of the Aether template to suite your needs. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the HEX color code to your liking. The primary color acts like an accent color and appears in places like code syntax.\n\n```css\n:root {\n\t—-color-primary: #1ca0f1 !important;\n}\n```\n\n## Call to action button\n\nAether has an additional feature that lets you turn a link into a call to action button, check out the example below.\n\n[**Call to action button**](https://super.so)\n\nFor a link to become a button it must be a single **bold** text block on its own line with a link. You can customise the appearance of the button using the code snippet below. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the values to your liking. This will also affect the styles of the Navbar call to action button.\n\n```css\n:root {\n\t--cta-color-text: #FFFFFF!important;\n\t--cta-color-bg: #1CA0F2!important;\n\t--cta-padding: 12px 22px!important;\n  --cta-border-radius: 50px!important;\n}\n```\n\n![Adding a call to action button](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/call-to-action.gif)\n\nAdding a call to action button\n\n## Adding columns inside columns\n\nYou can now add multiple column blocks to Notion by using the Advanced blocks for multiple columns; type  `/2 columns` in Notion to add two columns.\n\n## Custom site footer\n\nAether is compatible with the Super Footer. Add a footer to your site from the Footer menu on the Site dashboard in Super.\n\n## Site footer social links\n\nThe site footer features a section to display social links, powered in Notion by a gallery block. By default the gallery block is loaded with a range of different Icons that are hidden. To view and enable them, hover over the gallery block and click filter button and uncheck the checkbox, this will show hidden icons. Then inside an icon update the link and check the 'show' box. Make sure to update the filter on the gallery block when you're finished.\n\n![Updating footer social links](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/footer-social.gif)\n\nUpdating footer social links\n\n## Adding new pages\n\nAdding new pages in Aether is easy. Inside the **Control panel toggle block** on the home page of Aether in Notion is a **Create page button**. Click this button to generate a new page using the Aether template and then move it into the left sidebar synced block. This template page automatically has the correct layout and contains all the synced blocks required for the template to work correctly.\n\n![Adding new pages](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/add-page.gif)\n\nAdding new pages\n\n## Content navigation footer\n\nThe content navigation footer is an optional section that you can see at the bottom of this section and it features two large buttons to help users navigate to the previous or next page. The links must be added manually and will only work correctly if it is placed at the very bottom of the center content column. To add this navigation footer to a page, head inside the **Control panel toggle block** on the home page of Aether in Notion and into the **tools page**. Inside is a **'Navigation footer'** template button that you can copy and paste into your other pages and simply click it ****to create a navigation footer.\n\n![Adding a content navigation footer](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/180e6efd-14f3-4f4e-aa18-56777d28825d_(1).gif)\n\nAdding a content navigation footer\n\n← Previous\n\n[Getting Started](/resources/getting-started-142f6d94771f81faadd8da0efabbb1ba)\n\nNext →\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)"
+  },
+  "main-modules/offers-guarantees-case-studies/getting-started/design-system/primary-colors/aether-blue-142f6d94771f812fafaecfdaecec66ce": {
+    "title": "Aether Blue",
+    "slug": "aether-blue-142f6d94771f812fafaecfdaecec66ce",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/getting-started/design-system/primary-colors/aether-blue-142f6d94771f812fafaecfdaecec66ce",
+    "content": "# Aether Blue\n\nCreated: November 18, 2024 4:44 AM\nHEX: #1ca0f1"
+  },
+  "main-modules/offers-guarantees-case-studies/getting-started/design-system/primary-colors/aether-dark-142f6d94771f81bca8cfcddf488aa525": {
+    "title": "Aether Dark",
+    "slug": "aether-dark-142f6d94771f81bca8cfcddf488aa525",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/getting-started/design-system/primary-colors/aether-dark-142f6d94771f81bca8cfcddf488aa525",
+    "content": "# Aether Dark\n\nCreated: November 18, 2024 4:44 AM\nHEX: #424b55"
+  },
+  "main-modules/offers-guarantees-case-studies/getting-started/design-system/secondary-colors/shade-1-142f6d94771f810782b6cb47b241b47b": {
+    "title": "Shade 1",
+    "slug": "shade-1-142f6d94771f810782b6cb47b241b47b",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/getting-started/design-system/secondary-colors/shade-1-142f6d94771f810782b6cb47b241b47b",
+    "content": "# Shade 1\n\nCreated: November 18, 2024 4:44 AM\nHEX: #60bdf5"
+  },
+  "main-modules/offers-guarantees-case-studies/getting-started/design-system/secondary-colors/shade-2-142f6d94771f81ccb3d5e36fd0438eac": {
+    "title": "Shade 2",
+    "slug": "shade-2-142f6d94771f81ccb3d5e36fd0438eac",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/getting-started/design-system/secondary-colors/shade-2-142f6d94771f81ccb3d5e36fd0438eac",
+    "content": "# Shade 2\n\nCreated: November 18, 2024 4:44 AM\nHEX: #90d1f8"
+  },
+  "main-modules/offers-guarantees-case-studies/getting-started/design-system/secondary-colors/shade-3-142f6d94771f81518ac4c713deebfb21": {
+    "title": "Shade 3",
+    "slug": "shade-3-142f6d94771f81518ac4c713deebfb21",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/getting-started/design-system/secondary-colors/shade-3-142f6d94771f81518ac4c713deebfb21",
+    "content": "# Shade 3\n\nCreated: November 18, 2024 4:44 AM\nHEX: #b1dffa"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation-142f6d94771f8189a6ddf9f507874bbe": {
+    "title": "Documentation",
+    "slug": "documentation-142f6d94771f8189a6ddf9f507874bbe",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation-142f6d94771f8189a6ddf9f507874bbe",
+    "content": "# Documentation\n\nGetting started\n\n[Using Aether](/resources/using-aether-142f6d94771f81019e99c94fbabf1f60)\n\nUse cases\n\n[Design System](/resources/design-system-142f6d94771f81258b0fe7f84abc77dd)\n\n# Documentation\n\n> Aether is perfect for building out documentation of all kinds, check out the content below for examples on what can be achieved.\n> \n\n<div class=\"callout\">\n⚡ [Check out the official Super documentation built using Aether here](https://docs.super.so)\n\n</div>\n\n## Code Documentation\n\n### Environment Variables\n\nAether has built-in support for loading environment variables into the browser and Functions. Loading environment variables into Node.js requires a small code snippet. In development, Aether will load environment variables from a file named `.env.development`. For builds, it will load from `.env.production`.\n\nA `.env` file could look like:\n\n```\nAether=https://dev.example.com/apiAPI_KEY=927349872349798\n```\n\nTo load these into Node.js, add the following code snippet to the top of your `Aether-config.js` file:\n\n```jsx\nrequire(\"dotenv\").config({  path: `.env.${process.env.NODE_ENV}`,})\n```\n\nThis loads `process.env.AETHER_API_URL` and `process.env.API_KEY` for use in `Aether-*.js` files and functions.\n\nFor example, when configuring a plugin in `aether-config.js`:\n\n```jsx\nrequire(\"dotenv\").config({  \n\tpath: `.env.${process.env.NODE_ENV}`,\n})\n\nmodule.exports = {  \n\tplugins: [    \n\t\t{      \n\t\t\tresolve: `aether`,      \n\t\t\toptions: {        \n\t\t\t\tapiKey: process.env.API_KEY,      \n\t\t\t},    \n\t\t},  \n\t],\n}\n```\n\n### **Accessing Environment Variables in the browser.**\n\nBy default, environment variables are only available in Node.js code and are not available in the browser as some variables should be kept secret and not exposed to anyone visiting the site.\n\nTo expose a variable in the browser, you must preface its name with `AETHER_`. So `AETHER_API_URL` will be available in browser code but `API_KEY` will not.\n\nVariables are set when JavaScript is compiled so when the development server is started or you build your site.\n\n```jsx\nimport React, { useState, useEffect } from \"react\"\nfunction App() {\n  const [data, setData] = useState()\n  useEffect(async () => {\n    const result = await fetch(\n      `${process.env.AETHER_API_URL}/users`\n    ).then(res => res.json())\n    setData(result.data)\n  })\n  return (\n    <ul>\n      {data.map(user => (\n        <li key={user.id}>\n          <a href={user.url}>{user.name}</a>\n        </li>\n      ))}\n    </ul>\n  )\n}\nexport default App\n```\n\n### **Add `.env*` files to .gitignore**\n\nEnvironment variable files should not be committed to Git as they often contain secrets which are not safe to add to Git. Instead, add `.env.*` to your `.gitignore` file and setup the environment variables manually locally.\n\n---\n\n## Reference Tables\n\n### Light mode colors\n\n[Light Mode](Documentation/Light%20Mode%20142f6d94771f81aaa022cc509febda06.csv)\n\n### Dark mode colors\n\n[Dark Mode](Documentation/Dark%20Mode%20142f6d94771f818d9b07c49d291bfa5a.csv)\n\n---\n\n## Guides and Instructions\n\n### Adding a custom domain to your site\n\nTo add a domain to your site, first head into your site editor (cog icon) and click into the **\"Domains\"** page, then click the **\"Add a custom domain\"** button. After entering your own domain address in the popup, you'll then need to make some changes to the DNS settings through your hosting provider.\n\nYou would need to do this through your domain registrar's (GoDaddy, Namecheap, Google Domains, etc) or DNS provider's (Cloudflare, Netlify, etc) website. For specific instructions, view the content inside the toggle blocks below.\n\n## DNS Settings\n\nBelow you can find the DNS settings that need to be included on your domain registrar's (GoDaddy, Namecheap, Google Domains, etc) or DNS provider's (Cloudflare, Netlify, etc) website.\n\n### Root domain records\n\nFor a root domain like `example.com` you'll need to add the following records:\n\n[Untitled](Documentation/Untitled%20142f6d94771f8137ac21fb4c1afb54e0.csv)\n\n### Subdomain records\n\nFor a subdomain like `blog.example.com` add this record:\n\n[Untitled](Documentation/Untitled%20142f6d94771f8198ac0dd96fe52014ba.csv)\n\n**If you run into issues, please make sure that you have:**\n\n- Added new DNS records to your domain provider\n- Removed old DNS records\n- Waited up to 24 hours for new settings to propagate\n\n<div class=\"callout\">\n💡 This tool can be used to check if the records are set up correctly: [https://www.whatsmydns.net/](https://www.whatsmydns.net/)\n\n</div>\n\n← Previous\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)\n\nNext →\n\n[Design System](https://www.notion.so/4518d74bace84b25a518e64497467506?pvs=21)"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/using-aether-142f6d94771f8146a64becca1d1812a7": {
+    "title": "Using Aether",
+    "slug": "using-aether-142f6d94771f8146a64becca1d1812a7",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/using-aether-142f6d94771f8146a64becca1d1812a7",
+    "content": "# Using Aether\n\n# Using Aether\n\n> Aether comes with some additional custom features\n> \n\n## Left sidebar\n\nThe left hand sidebar, by default lists all the pages in your site and is wrapped in a synced block so that when you modify the content inside it will update throughout your site. This sidebar **will not** be visible on mobile devices so it is important to add page links to the mobile menu via the Super Navbar, learn more in the next step ↓\n\n## Adding page links to mobile menu\n\nSince the left sidebar will not be visible on mobile devices you need to manually add all your site pages to the links section inside a Super Navbar *(Site settings > Navbar > Navbar items)* so that they appear in a mobile menu. To make sure links don't appear in the navigation bar at the top, make sure to choose the **'Minimal'** Navbar type.\n\n![Manually adding site links via a Super Navbar to appear on Mobile Menu](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/mobile-links.gif)\n\nManually adding site links via a Super Navbar to appear on Mobile Menu\n\n## Right sidebar\n\nThe right hand sidebar, by default features a table of contents so users can navigate your pages with ease. The table of contents is wrapped in a synced block so when you modify the content inside it will update throughout your site. You can also delete the column, it would not break the template layout.\n\n## Primary color\n\nYou can easily switch the primary color of the Aether template to suite your needs. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the HEX color code to your liking. The primary color acts like an accent color and appears in places like code syntax.\n\n```css\n:root {\n\t—-color-primary: #1ca0f1 !important;\n}\n```\n\n## Call to action button\n\nAether has an additional feature that lets you turn a link into a call to action button, check out the example below.\n\n[**Call to action button**](https://super.so)\n\nFor a link to become a button it must be a single **bold** text block on its own line with a link. You can customise the appearance of the button using the code snippet below. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the values to your liking. This will also affect the styles of the Navbar call to action button.\n\n```css\n:root {\n\t--cta-color-text: #FFFFFF!important;\n\t--cta-color-bg: #1CA0F2!important;\n\t--cta-padding: 12px 22px!important;\n  --cta-border-radius: 50px!important;\n}\n```\n\n![Adding a call to action button](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/call-to-action.gif)\n\nAdding a call to action button\n\n## Adding columns inside columns\n\nYou can now add multiple column blocks to Notion by using the Advanced blocks for multiple columns; type  `/2 columns` in Notion to add two columns.\n\n## Custom site footer\n\nAether is compatible with the Super Footer. Add a footer to your site from the Footer menu on the Site dashboard in Super.\n\n## Site footer social links\n\nThe site footer features a section to display social links, powered in Notion by a gallery block. By default the gallery block is loaded with a range of different Icons that are hidden. To view and enable them, hover over the gallery block and click filter button and uncheck the checkbox, this will show hidden icons. Then inside an icon update the link and check the 'show' box. Make sure to update the filter on the gallery block when you're finished.\n\n![Updating footer social links](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/footer-social.gif)\n\nUpdating footer social links\n\n## Adding new pages\n\nAdding new pages in Aether is easy. Inside the **Control panel toggle block** on the home page of Aether in Notion is a **Create page button**. Click this button to generate a new page using the Aether template and then move it into the left sidebar synced block. This template page automatically has the correct layout and contains all the synced blocks required for the template to work correctly.\n\n![Adding new pages](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/add-page.gif)\n\nAdding new pages\n\n## Content navigation footer\n\nThe content navigation footer is an optional section that you can see at the bottom of this section and it features two large buttons to help users navigate to the previous or next page. The links must be added manually and will only work correctly if it is placed at the very bottom of the center content column. To add this navigation footer to a page, head inside the **Control panel toggle block** on the home page of Aether in Notion and into the **tools page**. Inside is a **'Navigation footer'** template button that you can copy and paste into your other pages and simply click it ****to create a navigation footer.\n\n![Adding a content navigation footer](../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Using%20Aether/180e6efd-14f3-4f4e-aa18-56777d28825d_(1).gif)\n\nAdding a content navigation footer\n\n← Previous\n\n[Getting Started](https://www.notion.so/130d7196a4fa491f90f488321eeb74aa?pvs=21)\n\nNext →\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/design-system-142f6d94771f81258b0fe7f84abc77dd": {
+    "title": "Design System",
+    "slug": "design-system-142f6d94771f81258b0fe7f84abc77dd",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/design-system-142f6d94771f81258b0fe7f84abc77dd",
+    "content": "# Design System\n\n# Design System\n\n> Aether is also perfect for design systems and guidelines\n> \n\n## **Mission Statement**\n\nOur mission is to create the most beautiful documentation template for Super and Notion.\n\n## **Values**\n\n- Minimalism\n- Transparency\n- Forward-thinking\n\n### Logomark\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 1.svg](../../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_1.svg)\n\n## Icon\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 5.svg](../../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_5.svg)\n\n![Frame 2.svg](../../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_2.svg)\n\n![Frame 6.svg](../../../../Resources%20Overview/Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_6.svg)\n\n### Primary Colors\n\n[Primary Colors](Design%20System/Primary%20Colors%20142f6d94771f81b3af94e039e3eea8ce.csv)\n\n### Secondary Colors\n\n[Secondary Colors](Design%20System/Secondary%20Colors%20142f6d94771f8198a6f6f311d73bd68f.csv)\n\n← Previous\n\n[Documentation example](/resources/documentation-142f6d94771f8189a6ddf9f507874bbe)"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/using-aether-142f6d94771f81019e99c94fbabf1f60": {
+    "title": "Using Aether",
+    "slug": "using-aether-142f6d94771f81019e99c94fbabf1f60",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/using-aether-142f6d94771f81019e99c94fbabf1f60",
+    "content": "# Using Aether"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/blue-142f6d94771f8158ba09ff0711c83125": {
+    "title": "Blue",
+    "slug": "blue-142f6d94771f8158ba09ff0711c83125",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/blue-142f6d94771f8158ba09ff0711c83125",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #364954\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 82,156,202,0.5\nText CSS Variable: --color-text-blue\nText Color: #529CCA"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/brown-142f6d94771f8165829ffe43da19b0bc": {
+    "title": "Brown",
+    "slug": "brown-142f6d94771f8165829ffe43da19b0bc",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/brown-142f6d94771f8165829ffe43da19b0bc",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #434040\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 147,114,100,0.5\nText CSS Variable: --color-text-brown\nText Color: #937264"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/default-142f6d94771f81178eeac84c63c0d6dc": {
+    "title": "Default",
+    "slug": "default-142f6d94771f81178eeac84c63c0d6dc",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/default-142f6d94771f81178eeac84c63c0d6dc",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #2F3437\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: 255,255,255,0.9"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/gray-142f6d94771f81f6b9a0dbc038461789": {
+    "title": "Gray",
+    "slug": "gray-142f6d94771f81f6b9a0dbc038461789",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/gray-142f6d94771f81f6b9a0dbc038461789",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #454B4E\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 151,154,155,0.5\nText CSS Variable: --color-text-gray\nText Color: 151,154,155,0.95"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/green-142f6d94771f8151aaededdc4e2a34c8": {
+    "title": "Green",
+    "slug": "green-142f6d94771f8151aaededdc4e2a34c8",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/green-142f6d94771f8151aaededdc4e2a34c8",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #354C4B\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 77,171,154,0.5\nText CSS Variable: --color-text-green\nText Color: #4DAB9A"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/orange-142f6d94771f8122834dcdf0615b3a4f": {
+    "title": "Orange",
+    "slug": "orange-142f6d94771f8122834dcdf0615b3a4f",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/orange-142f6d94771f8122834dcdf0615b3a4f",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #594A3A\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 255,163,68,0.5\nText CSS Variable: --color-text-orange\nText Color: #FFA344"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/pink-142f6d94771f813b8757d04f5cad14a1": {
+    "title": "Pink",
+    "slug": "pink-142f6d94771f813b8757d04f5cad14a1",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/pink-142f6d94771f813b8757d04f5cad14a1",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #533B4C\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 226,85,161,0.5\nText CSS Variable: --color-text-pink\nText Color: #E255A1"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/purple-142f6d94771f817a9ff2f7a438d55e5b": {
+    "title": "Purple",
+    "slug": "purple-142f6d94771f817a9ff2f7a438d55e5b",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/purple-142f6d94771f817a9ff2f7a438d55e5b",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #443F57\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 154,109,215,0.5\nText CSS Variable: --color-text-purple\nText Color: #9A6DD7"
+  },
+  "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/red-142f6d94771f814aae12cbf698d23a27": {
+    "title": "Red",
+    "slug": "red-142f6d94771f814aae12cbf698d23a27",
+    "fullSlug": "main-modules/offers-guarantees-case-studies/using-aether/documentation/dark-mode/red-142f6d94771f814aae12cbf698d23a27",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #594141\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,115,105,0.5\nText CSS Variable: --color-text-red\nText Color: #FF7369"
+  }
+}

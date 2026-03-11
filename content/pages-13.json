@@ -1,0 +1,302 @@
+{
+  "resources-overview/30k-month-roadmap/getting-started/getting-started-13af6d94771f816cb1b6d4214c3428a2": {
+    "title": "Getting Started",
+    "slug": "getting-started-13af6d94771f816cb1b6d4214c3428a2",
+    "fullSlug": "resources-overview/30k-month-roadmap/getting-started/getting-started-13af6d94771f816cb1b6d4214c3428a2",
+    "content": "# Getting Started\n\n# Getting Started\n\n> Welcome to Aether, to get started all you need is a [Notion](https://affiliate.notion.so/cxvpa1a3ocar) & [Super](https://super.so) account.\n> \n\n## 1. Duplicate Notion page\n\nThe first step to using this template is to duplicate this Notion page to your own workspace. Click the button below to open the Notion page.\n\n[**Duplicate Notion page**](https://s.super.so/aether)\n\n## 2. Create a Super site\n\nThen, head to your [Super dashboard](https://app.super.so) and create a new site using the public URL of your newly duplicated Notion page. [Learn how to do that here.](https://docs.super.site/creating-a-site)\n\n## 3. Add the style snippet\n\nThen, head to your site settings (gear icon) and into the code page. Then inside the 'Head' tab, paste the following code snippet.\n\n```html\n<link rel=\"stylesheet\" href=\"https://sites.super.so/aether/style.css\"/>\n```\n\n## 4. Add the script snippet\n\nThen inside the 'Body' tab, paste the following code snippet.\n\n```html\n<script src=\"https://sites.super.so/aether/script.js\"></script>\n```\n\n## 5. Add a footer and navbar\n\nFinally, in your site settings be sure to add a footer and navbar.\n\n<div class=\"callout\">\n💡 And just like magic, you should now see the Aether template in your dashboard preview. There's a few extra quirks to customizing and making the most out of the Aether template, check the **'Using Aether'** page to learn more ↓\n\n</div>\n\nNext →\n\n[Using Aether](https://www.notion.so/8fa99420c5c04ff8b06967b8815fbcaf?pvs=21)"
+  },
+  "resources-overview/30k-month-roadmap/getting-started/using-aether-13af6d94771f813eab77fd7e23ea32a6": {
+    "title": "Using Aether",
+    "slug": "using-aether-13af6d94771f813eab77fd7e23ea32a6",
+    "fullSlug": "resources-overview/30k-month-roadmap/getting-started/using-aether-13af6d94771f813eab77fd7e23ea32a6",
+    "content": "# Using Aether\n\n# Using Aether\n\n> Aether comes with some additional custom features\n> \n\n## Left sidebar\n\nThe left hand sidebar, by default lists all the pages in your site and is wrapped in a synced block so that when you modify the content inside it will update throughout your site. This sidebar **will not** be visible on mobile devices so it is important to add page links to the mobile menu via the Super Navbar, learn more in the next step ↓\n\n## Adding page links to mobile menu\n\nSince the left sidebar will not be visible on mobile devices you need to manually add all your site pages to the links section inside a Super Navbar *(Site settings > Navbar > Navbar items)* so that they appear in a mobile menu. To make sure links don't appear in the navigation bar at the top, make sure to choose the **'Minimal'** Navbar type.\n\n![Manually adding site links via a Super Navbar to appear on Mobile Menu](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/mobile-links.gif)\n\nManually adding site links via a Super Navbar to appear on Mobile Menu\n\n## Right sidebar\n\nThe right hand sidebar, by default features a table of contents so users can navigate your pages with ease. The table of contents is wrapped in a synced block so when you modify the content inside it will update throughout your site. You can also delete the column, it would not break the template layout.\n\n## Primary color\n\nYou can easily switch the primary color of the Aether template to suite your needs. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the HEX color code to your liking. The primary color acts like an accent color and appears in places like code syntax.\n\n```css\n:root {\n\t—-color-primary: #1ca0f1 !important;\n}\n```\n\n## Call to action button\n\nAether has an additional feature that lets you turn a link into a call to action button, check out the example below.\n\n[**Call to action button**](https://super.so)\n\nFor a link to become a button it must be a single **bold** text block on its own line with a link. You can customise the appearance of the button using the code snippet below. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the values to your liking. This will also affect the styles of the Navbar call to action button.\n\n```css\n:root {\n\t--cta-color-text: #FFFFFF!important;\n\t--cta-color-bg: #1CA0F2!important;\n\t--cta-padding: 12px 22px!important;\n  --cta-border-radius: 50px!important;\n}\n```\n\n![Adding a call to action button](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/call-to-action.gif)\n\nAdding a call to action button\n\n## Adding columns inside columns\n\nYou can now add multiple column blocks to Notion by using the Advanced blocks for multiple columns; type  `/2 columns` in Notion to add two columns.\n\n## Custom site footer\n\nAether is compatible with the Super Footer. Add a footer to your site from the Footer menu on the Site dashboard in Super.\n\n## Site footer social links\n\nThe site footer features a section to display social links, powered in Notion by a gallery block. By default the gallery block is loaded with a range of different Icons that are hidden. To view and enable them, hover over the gallery block and click filter button and uncheck the checkbox, this will show hidden icons. Then inside an icon update the link and check the 'show' box. Make sure to update the filter on the gallery block when you're finished.\n\n![Updating footer social links](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/footer-social.gif)\n\nUpdating footer social links\n\n## Adding new pages\n\nAdding new pages in Aether is easy. Inside the **Control panel toggle block** on the home page of Aether in Notion is a **Create page button**. Click this button to generate a new page using the Aether template and then move it into the left sidebar synced block. This template page automatically has the correct layout and contains all the synced blocks required for the template to work correctly.\n\n![Adding new pages](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/add-page.gif)\n\nAdding new pages\n\n## Content navigation footer\n\nThe content navigation footer is an optional section that you can see at the bottom of this section and it features two large buttons to help users navigate to the previous or next page. The links must be added manually and will only work correctly if it is placed at the very bottom of the center content column. To add this navigation footer to a page, head inside the **Control panel toggle block** on the home page of Aether in Notion and into the **tools page**. Inside is a **'Navigation footer'** template button that you can copy and paste into your other pages and simply click it ****to create a navigation footer.\n\n![Adding a content navigation footer](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/180e6efd-14f3-4f4e-aa18-56777d28825d_(1).gif)\n\nAdding a content navigation footer\n\n← Previous\n\n[Getting Started](/resources/getting-started-13af6d94771f811492dbcb0451b637f8)\n\nNext →\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)"
+  },
+  "resources-overview/30k-month-roadmap/getting-started/design-system/primary-colors/aether-blue-13af6d94771f81fa98e7fd5caa77ded4": {
+    "title": "Aether Blue",
+    "slug": "aether-blue-13af6d94771f81fa98e7fd5caa77ded4",
+    "fullSlug": "resources-overview/30k-month-roadmap/getting-started/design-system/primary-colors/aether-blue-13af6d94771f81fa98e7fd5caa77ded4",
+    "content": "# Aether Blue\n\nCreated: November 10, 2024 9:47 AM\nHEX: #1ca0f1"
+  },
+  "resources-overview/30k-month-roadmap/getting-started/design-system/primary-colors/aether-dark-13af6d94771f81989ee9f940084f70ec": {
+    "title": "Aether Dark",
+    "slug": "aether-dark-13af6d94771f81989ee9f940084f70ec",
+    "fullSlug": "resources-overview/30k-month-roadmap/getting-started/design-system/primary-colors/aether-dark-13af6d94771f81989ee9f940084f70ec",
+    "content": "# Aether Dark\n\nCreated: November 10, 2024 9:47 AM\nHEX: #424b55"
+  },
+  "resources-overview/30k-month-roadmap/getting-started/design-system/secondary-colors/shade-1-13af6d94771f819ca86cfff06ab7a573": {
+    "title": "Shade 1",
+    "slug": "shade-1-13af6d94771f819ca86cfff06ab7a573",
+    "fullSlug": "resources-overview/30k-month-roadmap/getting-started/design-system/secondary-colors/shade-1-13af6d94771f819ca86cfff06ab7a573",
+    "content": "# Shade 1\n\nCreated: November 10, 2024 9:47 AM\nHEX: #60bdf5"
+  },
+  "resources-overview/30k-month-roadmap/getting-started/design-system/secondary-colors/shade-2-13af6d94771f81afae86cb5f44153ca5": {
+    "title": "Shade 2",
+    "slug": "shade-2-13af6d94771f81afae86cb5f44153ca5",
+    "fullSlug": "resources-overview/30k-month-roadmap/getting-started/design-system/secondary-colors/shade-2-13af6d94771f81afae86cb5f44153ca5",
+    "content": "# Shade 2\n\nCreated: November 10, 2024 9:47 AM\nHEX: #90d1f8"
+  },
+  "resources-overview/30k-month-roadmap/getting-started/design-system/secondary-colors/shade-3-13af6d94771f812ca458f0f69475c9c1": {
+    "title": "Shade 3",
+    "slug": "shade-3-13af6d94771f812ca458f0f69475c9c1",
+    "fullSlug": "resources-overview/30k-month-roadmap/getting-started/design-system/secondary-colors/shade-3-13af6d94771f812ca458f0f69475c9c1",
+    "content": "# Shade 3\n\nCreated: November 10, 2024 9:47 AM\nHEX: #b1dffa"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation-13af6d94771f81d09504e8e9f84e0c4f": {
+    "title": "Documentation",
+    "slug": "documentation-13af6d94771f81d09504e8e9f84e0c4f",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation-13af6d94771f81d09504e8e9f84e0c4f",
+    "content": "# Documentation\n\nGetting started\n\n[Using Aether](/resources/using-aether-13af6d94771f81218fa5d2e7fc1a98b1)\n\nUse cases\n\n[Design System](/resources/design-system-13af6d94771f813fb023d4278c42031e)\n\n# Documentation\n\n> Aether is perfect for building out documentation of all kinds, check out the content below for examples on what can be achieved.\n> \n\n<div class=\"callout\">\n⚡ [Check out the official Super documentation built using Aether here](https://docs.super.so)\n\n</div>\n\n## Code Documentation\n\n### Environment Variables\n\nAether has built-in support for loading environment variables into the browser and Functions. Loading environment variables into Node.js requires a small code snippet. In development, Aether will load environment variables from a file named `.env.development`. For builds, it will load from `.env.production`.\n\nA `.env` file could look like:\n\n```\nAether=https://dev.example.com/apiAPI_KEY=927349872349798\n```\n\nTo load these into Node.js, add the following code snippet to the top of your `Aether-config.js` file:\n\n```jsx\nrequire(\"dotenv\").config({  path: `.env.${process.env.NODE_ENV}`,})\n```\n\nThis loads `process.env.AETHER_API_URL` and `process.env.API_KEY` for use in `Aether-*.js` files and functions.\n\nFor example, when configuring a plugin in `aether-config.js`:\n\n```jsx\nrequire(\"dotenv\").config({  \n\tpath: `.env.${process.env.NODE_ENV}`,\n})\n\nmodule.exports = {  \n\tplugins: [    \n\t\t{      \n\t\t\tresolve: `aether`,      \n\t\t\toptions: {        \n\t\t\t\tapiKey: process.env.API_KEY,      \n\t\t\t},    \n\t\t},  \n\t],\n}\n```\n\n### **Accessing Environment Variables in the browser.**\n\nBy default, environment variables are only available in Node.js code and are not available in the browser as some variables should be kept secret and not exposed to anyone visiting the site.\n\nTo expose a variable in the browser, you must preface its name with `AETHER_`. So `AETHER_API_URL` will be available in browser code but `API_KEY` will not.\n\nVariables are set when JavaScript is compiled so when the development server is started or you build your site.\n\n```jsx\nimport React, { useState, useEffect } from \"react\"\nfunction App() {\n  const [data, setData] = useState()\n  useEffect(async () => {\n    const result = await fetch(\n      `${process.env.AETHER_API_URL}/users`\n    ).then(res => res.json())\n    setData(result.data)\n  })\n  return (\n    <ul>\n      {data.map(user => (\n        <li key={user.id}>\n          <a href={user.url}>{user.name}</a>\n        </li>\n      ))}\n    </ul>\n  )\n}\nexport default App\n```\n\n### **Add `.env*` files to .gitignore**\n\nEnvironment variable files should not be committed to Git as they often contain secrets which are not safe to add to Git. Instead, add `.env.*` to your `.gitignore` file and setup the environment variables manually locally.\n\n---\n\n## Reference Tables\n\n### Light mode colors\n\n[Light Mode](Documentation/Light%20Mode%2013af6d94771f81cea0a0cf598d7ff95b.csv)\n\n### Dark mode colors\n\n[Dark Mode](Documentation/Dark%20Mode%2013af6d94771f819cb0d6dc82cd488ee2.csv)\n\n---\n\n## Guides and Instructions\n\n### Adding a custom domain to your site\n\nTo add a domain to your site, first head into your site editor (cog icon) and click into the **\"Domains\"** page, then click the **\"Add a custom domain\"** button. After entering your own domain address in the popup, you'll then need to make some changes to the DNS settings through your hosting provider.\n\nYou would need to do this through your domain registrar's (GoDaddy, Namecheap, Google Domains, etc) or DNS provider's (Cloudflare, Netlify, etc) website. For specific instructions, view the content inside the toggle blocks below.\n\n## DNS Settings\n\nBelow you can find the DNS settings that need to be included on your domain registrar's (GoDaddy, Namecheap, Google Domains, etc) or DNS provider's (Cloudflare, Netlify, etc) website.\n\n### Root domain records\n\nFor a root domain like `example.com` you'll need to add the following records:\n\n[Untitled](Documentation/Untitled%2013af6d94771f81eaac25fd73ced78aec.csv)\n\n### Subdomain records\n\nFor a subdomain like `blog.example.com` add this record:\n\n[Untitled](Documentation/Untitled%2013af6d94771f81e0abd3c1bf25535b62.csv)\n\n**If you run into issues, please make sure that you have:**\n\n- Added new DNS records to your domain provider\n- Removed old DNS records\n- Waited up to 24 hours for new settings to propagate\n\n<div class=\"callout\">\n💡 This tool can be used to check if the records are set up correctly: [https://www.whatsmydns.net/](https://www.whatsmydns.net/)\n\n</div>\n\n← Previous\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)\n\nNext →\n\n[Design System](https://www.notion.so/4518d74bace84b25a518e64497467506?pvs=21)"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/using-aether-13af6d94771f81d1a16cfd4e7c75026b": {
+    "title": "Using Aether",
+    "slug": "using-aether-13af6d94771f81d1a16cfd4e7c75026b",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/using-aether-13af6d94771f81d1a16cfd4e7c75026b",
+    "content": "# Using Aether\n\n# Using Aether\n\n> Aether comes with some additional custom features\n> \n\n## Left sidebar\n\nThe left hand sidebar, by default lists all the pages in your site and is wrapped in a synced block so that when you modify the content inside it will update throughout your site. This sidebar **will not** be visible on mobile devices so it is important to add page links to the mobile menu via the Super Navbar, learn more in the next step ↓\n\n## Adding page links to mobile menu\n\nSince the left sidebar will not be visible on mobile devices you need to manually add all your site pages to the links section inside a Super Navbar *(Site settings > Navbar > Navbar items)* so that they appear in a mobile menu. To make sure links don't appear in the navigation bar at the top, make sure to choose the **'Minimal'** Navbar type.\n\n![Manually adding site links via a Super Navbar to appear on Mobile Menu](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/mobile-links.gif)\n\nManually adding site links via a Super Navbar to appear on Mobile Menu\n\n## Right sidebar\n\nThe right hand sidebar, by default features a table of contents so users can navigate your pages with ease. The table of contents is wrapped in a synced block so when you modify the content inside it will update throughout your site. You can also delete the column, it would not break the template layout.\n\n## Primary color\n\nYou can easily switch the primary color of the Aether template to suite your needs. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the HEX color code to your liking. The primary color acts like an accent color and appears in places like code syntax.\n\n```css\n:root {\n\t—-color-primary: #1ca0f1 !important;\n}\n```\n\n## Call to action button\n\nAether has an additional feature that lets you turn a link into a call to action button, check out the example below.\n\n[**Call to action button**](https://super.so)\n\nFor a link to become a button it must be a single **bold** text block on its own line with a link. You can customise the appearance of the button using the code snippet below. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the values to your liking. This will also affect the styles of the Navbar call to action button.\n\n```css\n:root {\n\t--cta-color-text: #FFFFFF!important;\n\t--cta-color-bg: #1CA0F2!important;\n\t--cta-padding: 12px 22px!important;\n  --cta-border-radius: 50px!important;\n}\n```\n\n![Adding a call to action button](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/call-to-action.gif)\n\nAdding a call to action button\n\n## Adding columns inside columns\n\nYou can now add multiple column blocks to Notion by using the Advanced blocks for multiple columns; type  `/2 columns` in Notion to add two columns.\n\n## Custom site footer\n\nAether is compatible with the Super Footer. Add a footer to your site from the Footer menu on the Site dashboard in Super.\n\n## Site footer social links\n\nThe site footer features a section to display social links, powered in Notion by a gallery block. By default the gallery block is loaded with a range of different Icons that are hidden. To view and enable them, hover over the gallery block and click filter button and uncheck the checkbox, this will show hidden icons. Then inside an icon update the link and check the 'show' box. Make sure to update the filter on the gallery block when you're finished.\n\n![Updating footer social links](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/footer-social.gif)\n\nUpdating footer social links\n\n## Adding new pages\n\nAdding new pages in Aether is easy. Inside the **Control panel toggle block** on the home page of Aether in Notion is a **Create page button**. Click this button to generate a new page using the Aether template and then move it into the left sidebar synced block. This template page automatically has the correct layout and contains all the synced blocks required for the template to work correctly.\n\n![Adding new pages](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/add-page.gif)\n\nAdding new pages\n\n## Content navigation footer\n\nThe content navigation footer is an optional section that you can see at the bottom of this section and it features two large buttons to help users navigate to the previous or next page. The links must be added manually and will only work correctly if it is placed at the very bottom of the center content column. To add this navigation footer to a page, head inside the **Control panel toggle block** on the home page of Aether in Notion and into the **tools page**. Inside is a **'Navigation footer'** template button that you can copy and paste into your other pages and simply click it ****to create a navigation footer.\n\n![Adding a content navigation footer](../../Exclusive%20Deals%20and%20Discounts/Using%20Aether/180e6efd-14f3-4f4e-aa18-56777d28825d_(1).gif)\n\nAdding a content navigation footer\n\n← Previous\n\n[Getting Started](https://www.notion.so/130d7196a4fa491f90f488321eeb74aa?pvs=21)\n\nNext →\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/design-system-13af6d94771f813fb023d4278c42031e": {
+    "title": "Design System",
+    "slug": "design-system-13af6d94771f813fb023d4278c42031e",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/design-system-13af6d94771f813fb023d4278c42031e",
+    "content": "# Design System\n\n# Design System\n\n> Aether is also perfect for design systems and guidelines\n> \n\n## **Mission Statement**\n\nOur mission is to create the most beautiful documentation template for Super and Notion.\n\n## **Values**\n\n- Minimalism\n- Transparency\n- Forward-thinking\n\n### Logomark\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 1.svg](../../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_1.svg)\n\n## Icon\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 5.svg](../../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_5.svg)\n\n![Frame 2.svg](../../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_2.svg)\n\n![Frame 6.svg](../../../Exclusive%20Deals%20and%20Discounts/Design%20System/Frame_6.svg)\n\n### Primary Colors\n\n[Primary Colors](Design%20System/Primary%20Colors%2013af6d94771f81b5bd0df7438c8d77a0.csv)\n\n### Secondary Colors\n\n[Secondary Colors](Design%20System/Secondary%20Colors%2013af6d94771f8131aabcd484c946e98c.csv)\n\n← Previous\n\n[Documentation example](/resources/documentation-13af6d94771f81d09504e8e9f84e0c4f)"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/using-aether-13af6d94771f81218fa5d2e7fc1a98b1": {
+    "title": "Using Aether",
+    "slug": "using-aether-13af6d94771f81218fa5d2e7fc1a98b1",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/using-aether-13af6d94771f81218fa5d2e7fc1a98b1",
+    "content": "# Using Aether"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/blue-13af6d94771f81819be7ca819bd452f5": {
+    "title": "Blue",
+    "slug": "blue-13af6d94771f81819be7ca819bd452f5",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/blue-13af6d94771f81819be7ca819bd452f5",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #364954\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 82,156,202,0.5\nText CSS Variable: --color-text-blue\nText Color: #529CCA"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/brown-13af6d94771f81ca82fec9b7e9b1333f": {
+    "title": "Brown",
+    "slug": "brown-13af6d94771f81ca82fec9b7e9b1333f",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/brown-13af6d94771f81ca82fec9b7e9b1333f",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #434040\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 147,114,100,0.5\nText CSS Variable: --color-text-brown\nText Color: #937264"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/default-13af6d94771f812f94b8c834e28bbde8": {
+    "title": "Default",
+    "slug": "default-13af6d94771f812f94b8c834e28bbde8",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/default-13af6d94771f812f94b8c834e28bbde8",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #2F3437\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: 255,255,255,0.9"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/gray-13af6d94771f81f58845d2529162dddd": {
+    "title": "Gray",
+    "slug": "gray-13af6d94771f81f58845d2529162dddd",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/gray-13af6d94771f81f58845d2529162dddd",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #454B4E\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 151,154,155,0.5\nText CSS Variable: --color-text-gray\nText Color: 151,154,155,0.95"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/green-13af6d94771f813b8c9cd07a8e225c4d": {
+    "title": "Green",
+    "slug": "green-13af6d94771f813b8c9cd07a8e225c4d",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/green-13af6d94771f813b8c9cd07a8e225c4d",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #354C4B\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 77,171,154,0.5\nText CSS Variable: --color-text-green\nText Color: #4DAB9A"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/orange-13af6d94771f814b8b73e731092f3e2d": {
+    "title": "Orange",
+    "slug": "orange-13af6d94771f814b8b73e731092f3e2d",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/orange-13af6d94771f814b8b73e731092f3e2d",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #594A3A\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 255,163,68,0.5\nText CSS Variable: --color-text-orange\nText Color: #FFA344"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/pink-13af6d94771f81b1a87be249fb73e872": {
+    "title": "Pink",
+    "slug": "pink-13af6d94771f81b1a87be249fb73e872",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/pink-13af6d94771f81b1a87be249fb73e872",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #533B4C\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 226,85,161,0.5\nText CSS Variable: --color-text-pink\nText Color: #E255A1"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/purple-13af6d94771f81b0b3fccb6b403e4307": {
+    "title": "Purple",
+    "slug": "purple-13af6d94771f81b0b3fccb6b403e4307",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/purple-13af6d94771f81b0b3fccb6b403e4307",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #443F57\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 154,109,215,0.5\nText CSS Variable: --color-text-purple\nText Color: #9A6DD7"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/red-13af6d94771f81348a2ed20584f56b69": {
+    "title": "Red",
+    "slug": "red-13af6d94771f81348a2ed20584f56b69",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/red-13af6d94771f81348a2ed20584f56b69",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #594141\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,115,105,0.5\nText CSS Variable: --color-text-red\nText Color: #FF7369"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/yellow-13af6d94771f8176bdc0fec745b29459": {
+    "title": "Yellow",
+    "slug": "yellow-13af6d94771f8176bdc0fec745b29459",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/dark-mode/yellow-13af6d94771f8176bdc0fec745b29459",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #59563B\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 255,220,73,0.5\nText CSS Variable: --color-text-yellow\nText Color: #FFDC49"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/primary-colors/aether-blue-13af6d94771f81c18c15e4c4e2360a1d": {
+    "title": "Aether Blue",
+    "slug": "aether-blue-13af6d94771f81c18c15e4c4e2360a1d",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/primary-colors/aether-blue-13af6d94771f81c18c15e4c4e2360a1d",
+    "content": "# Aether Blue\n\nCreated: November 10, 2024 9:47 AM\nHEX: #1ca0f1"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/primary-colors/aether-dark-13af6d94771f81759ad9d85cd4ffc562": {
+    "title": "Aether Dark",
+    "slug": "aether-dark-13af6d94771f81759ad9d85cd4ffc562",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/primary-colors/aether-dark-13af6d94771f81759ad9d85cd4ffc562",
+    "content": "# Aether Dark\n\nCreated: November 10, 2024 9:47 AM\nHEX: #424b55"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/secondary-colors/shade-1-13af6d94771f817cac71fc556418e37a": {
+    "title": "Shade 1",
+    "slug": "shade-1-13af6d94771f817cac71fc556418e37a",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/secondary-colors/shade-1-13af6d94771f817cac71fc556418e37a",
+    "content": "# Shade 1\n\nCreated: November 10, 2024 9:47 AM\nHEX: #60bdf5"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/secondary-colors/shade-2-13af6d94771f8151985aea18c4e4dfc6": {
+    "title": "Shade 2",
+    "slug": "shade-2-13af6d94771f8151985aea18c4e4dfc6",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/secondary-colors/shade-2-13af6d94771f8151985aea18c4e4dfc6",
+    "content": "# Shade 2\n\nCreated: November 10, 2024 9:47 AM\nHEX: #90d1f8"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/secondary-colors/shade-3-13af6d94771f81e59735fd8a27970d44": {
+    "title": "Shade 3",
+    "slug": "shade-3-13af6d94771f81e59735fd8a27970d44",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/design-system/secondary-colors/shade-3-13af6d94771f81e59735fd8a27970d44",
+    "content": "# Shade 3\n\nCreated: November 10, 2024 9:47 AM\nHEX: #b1dffa"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/blue-13af6d94771f8140a5f5daea335f5b0c": {
+    "title": "Blue",
+    "slug": "blue-13af6d94771f8140a5f5daea335f5b0c",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/blue-13af6d94771f8140a5f5daea335f5b0c",
+    "content": "# Blue\n\nText: Blue\nBG:           \nBG CSS Variable: --color-bg-blue\nBG Color: #DDEBF1\nSelect: Blue\nSelect CSS Variable: --color-pill-blue\nSelect Color: 0,120,223,0.2\nText CSS Variable: --color-text-blue\nText Color: #0B6E99"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/brown-13af6d94771f81cfafe0dbe9288c5fd6": {
+    "title": "Brown",
+    "slug": "brown-13af6d94771f81cfafe0dbe9288c5fd6",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/brown-13af6d94771f81cfafe0dbe9288c5fd6",
+    "content": "# Brown\n\nText: Brown\nBG:     ‎      \nBG CSS Variable: --color-bg-brown\nBG Color: #E9E5E3\nSelect: Brown\nSelect CSS Variable: --color-pill-brown\nSelect Color: 140,46,0,0.2\nText CSS Variable: --color-text-brown\nText Color: #64473A"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/default-13af6d94771f81c383bbdb12ea6a2f70": {
+    "title": "Default",
+    "slug": "default-13af6d94771f81c383bbdb12ea6a2f70",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/default-13af6d94771f81c383bbdb12ea6a2f70",
+    "content": "# Default\n\nText: Default\nBG CSS Variable: --color-bg-default\nBG Color: #FFFFFF\nSelect: Default\nSelect CSS Variable: --color-pill-default\nSelect Color: 206,205,202,0.5\nText CSS Variable: --color-text-default\nText Color: #37352F"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/gray-13af6d94771f81a995a3e58e7ff79959": {
+    "title": "Gray",
+    "slug": "gray-13af6d94771f81a995a3e58e7ff79959",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/gray-13af6d94771f81a995a3e58e7ff79959",
+    "content": "# Gray\n\nText: Gray\nBG:      ‎     \nBG CSS Variable: --color-bg-gray\nBG Color: #EBECED\nSelect: Gray\nSelect CSS Variable: --color-pill-gray\nSelect Color: 155,154,151,0.4\nText CSS Variable: --color-text-gray\nText Color: #9B9A97"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/green-13af6d94771f81b19a24c87e0ca4901a": {
+    "title": "Green",
+    "slug": "green-13af6d94771f81b19a24c87e0ca4901a",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/green-13af6d94771f81b19a24c87e0ca4901a",
+    "content": "# Green\n\nText: Green\nBG:           \nBG CSS Variable: --color-bg-green\nBG Color: #DDEDEA\nSelect: Green\nSelect CSS Variable: --color-pill-green\nSelect Color: 0,135,107,0.2\nText CSS Variable: --color-text-green\nText Color: #0F7B6C"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/orange-13af6d94771f816da9caf95d81b4b706": {
+    "title": "Orange",
+    "slug": "orange-13af6d94771f816da9caf95d81b4b706",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/orange-13af6d94771f816da9caf95d81b4b706",
+    "content": "# Orange\n\nText: Orange\nBG:    ‎       \nBG CSS Variable: --color-bg-orange\nBG Color: #FAEBDD\nSelect: Orange\nSelect CSS Variable: --color-pill-orange\nSelect Color: 245,93,0,0.2\nText CSS Variable: --color-text-orange\nText Color: #D9730D"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/pink-13af6d94771f81cab85ed08b67f290eb": {
+    "title": "Pink",
+    "slug": "pink-13af6d94771f81cab85ed08b67f290eb",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/pink-13af6d94771f81cab85ed08b67f290eb",
+    "content": "# Pink\n\nText: Pink\nBG:           \nBG CSS Variable: --color-bg-pink\nBG Color: #F4DFEB\nSelect: Pink\nSelect CSS Variable: --color-pill-pink\nSelect Color: 221,0,129,0.2\nText CSS Variable: --color-text-pink\nText Color: #AD1A72"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/purple-13af6d94771f8167bc6bcc33e6b7bdfe": {
+    "title": "Purple",
+    "slug": "purple-13af6d94771f8167bc6bcc33e6b7bdfe",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/purple-13af6d94771f8167bc6bcc33e6b7bdfe",
+    "content": "# Purple\n\nText: Purple\nBG:           \nBG CSS Variable: --color-bg-purple\nBG Color: #EAE4F2\nSelect: Purple\nSelect CSS Variable: --color-pill-purple\nSelect Color: 103,36,222,0.2\nText CSS Variable: --color-text-purple\nText Color: #6940A5"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/red-13af6d94771f8136997dd42427e6ac92": {
+    "title": "Red",
+    "slug": "red-13af6d94771f8136997dd42427e6ac92",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/red-13af6d94771f8136997dd42427e6ac92",
+    "content": "# Red\n\nText: Red\nBG:           \nBG CSS Variable: --color-bg-red\nBG Color: #FBE4E4\nSelect: Red\nSelect CSS Variable: --color-pill-red\nSelect Color: 255,0,26,0.2\nText CSS Variable: --color-text-red\nText Color: #E03E3E"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/yellow-13af6d94771f818ab64ff352c85a9bba": {
+    "title": "Yellow",
+    "slug": "yellow-13af6d94771f818ab64ff352c85a9bba",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/light-mode/yellow-13af6d94771f818ab64ff352c85a9bba",
+    "content": "# Yellow\n\nText: Yellow\nBG:           \nBG CSS Variable: --color-bg-yellow\nBG Color: #FBF3DB\nSelect: Yellow\nSelect CSS Variable: --color-pill-yellow\nSelect Color: 233,168,0,0.2\nText CSS Variable: --color-text-yellow\nText Color: #DFAB01"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/untitled/13af6d94771f81e0a9e5c7143d3fb21a": {
+    "title": "@",
+    "slug": "13af6d94771f81e0a9e5c7143d3fb21a",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/untitled/13af6d94771f81e0a9e5c7143d3fb21a",
+    "content": "# @\n\nValue: 76.76.21.21\nType: A"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/untitled/www-13af6d94771f814691e3de593dc01f58": {
+    "title": "www",
+    "slug": "www-13af6d94771f814691e3de593dc01f58",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/untitled/www-13af6d94771f814691e3de593dc01f58",
+    "content": "# www\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "resources-overview/30k-month-roadmap/using-aether/documentation/untitled-13af-5b62/your-subdomain-13af6d94771f81f49864ea96433719b6": {
+    "title": "(your subdomain)",
+    "slug": "your-subdomain-13af6d94771f81f49864ea96433719b6",
+    "fullSlug": "resources-overview/30k-month-roadmap/using-aether/documentation/untitled-13af-5b62/your-subdomain-13af6d94771f81f49864ea96433719b6",
+    "content": "# (your subdomain)\n\nValue: cname.super.so\nType: CNAME"
+  },
+  "resources-overview/exclusive-deals-and-discounts/blocks-295f6d94771f8146aa52efb31024b2ef": {
+    "title": "Blocks",
+    "slug": "blocks-295f6d94771f8146aa52efb31024b2ef",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/blocks-295f6d94771f8146aa52efb31024b2ef",
+    "content": "# Blocks\n\n# Blocks\n\n> Aether is compatible with all of Super's blocks. Check out how they look below.\n> \n\n# Heading 1\n\n## Heading 2\n\n### Heading 3\n\nText block Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus a pretium leo. Praesent eu sem nulla. In nunc arcu, rutrum eu malesuada sed, lacinia nec ipsum. Maecenas quis tincidunt sem. Quisque vitae nisl vel purus laoreet efficitur quis ut arcu. Nulla sit amet risus hendrerit, tristique augue eu, dapibus risus. Curabitur ullamcorper ligula lacus, sit amet pharetra neque interdum in.\n\nNormal Text\n\n**Bold Text**\n\n*Italic Text*\n\nUnderlined Text\n\n~~Strikethrough Text~~\n\n[Linked Text](https://super.so)\n\n`Code Text`\n\n[Link block →](https://super.so)\n\n[**Call to action button**](https://s.super.so/aether)\n\n**Bullet list block**\n\n- Bulleted list block item 1\n- Bulleted list block item 2\n- Bulleted list block item 3\n\n**Numbered list block**\n\n1. Numbered list block item 1\n2. Numbered list block item 2\n3. Numbered list block item 3\n\n**Todo list block**\n\n- [x]  Todo item block 1 (Checked)\n- [ ]  Todo item block 2\n- [ ]  Todo item block 3\n\n- Toggle block (Summary)\n    \n    Toggle block contents\n    \n\n> Quote block\n> \n\n> Quote block\n> \n\n> Quote block\n> \n\n> Quote block\n> \n\n> Quote block\n> \n\n> Quote block\n> \n\n> Quote block\n> \n\n> Quote block\n> \n\n> Quote block\n> \n\n> Quote block\n> \n\n<div class=\"callout\">\n📎 Callout block default\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block grey\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block brown\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block orange\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block yellow\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block green\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block blue\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block purple\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block pink\n\n</div>\n\n<div class=\"callout\">\n📎 Callout block red\n\n</div>\n\n```css\n/* CODE BLOCK */\n\tcode {\n\t\tbackground: #000;\n\t}\n```\n\n**Divider block**\n\n---\n\n[Table block](Blocks/Table%20block%20295f6d94771f811890e5c2cfda3f3c36.csv)\n\n### Gallery collection block\n\n[Gallery collection block](Blocks/Gallery%20collection%20block%20295f6d94771f819aa2e0d55481e4c144.csv)\n\n### Board collection block\n\n[Board collection block](Blocks/Board%20collection%20block%20295f6d94771f81f28a6ac465d22f19c0.csv)\n\n### List collection block\n\n[List collection block](Blocks/List%20collection%20block%20295f6d94771f812d857ed6b7a7fca718.csv)\n\nInline equation block\n\n$E = mc²$\n\n \n\nEquation block\n\n$$\nHey\n$$\n\n![Image block](Blocks/clouds.jpeg)\n\nImage block\n\n[Super - Build websites with Notion](https://super.so)\n\nBookmark block\n\n**Table of contents block**\n\n[Video block](https://www.youtube.com/watch?v=6K6vviL6_O4)\n\nVideo block\n\n[File block](Blocks/clouds%201.jpeg)\n\nFile block\n\n[Audio block](Blocks/Hoe_Cakes.mp3)\n\nAudio block\n\n[https://twitter.com/super_/status/1448758838572818437](https://twitter.com/super_/status/1448758838572818437)\n\nText color default\n\nText color gray\n\nText color brown\n\nText color orange\n\nText color yellow\n\nText color green\n\nText color blue\n\nText color purple\n\nText color pink\n\nText color red\n\nBackground color gray\n\nBackground color brown\n\nBackground color orange\n\nBackground color yellow\n\nBackground color green\n\nBackground color blue\n\nBackground color purple\n\nBackground color pink\n\nBackground color red\n\n← Previous\n\n[Using Aether](https://www.notion.so/8fa99420c5c04ff8b06967b8815fbcaf?pvs=21)\n\nNext →\n\n[Documentation example](https://www.notion.so/c893cd9cef6049fdbfb642a3fb655b69?pvs=21)"
+  },
+  "resources-overview/exclusive-deals-and-discounts/design-system-295f6d94771f810b894ff2c87c3924ed": {
+    "title": "Design System",
+    "slug": "design-system-295f6d94771f810b894ff2c87c3924ed",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/design-system-295f6d94771f810b894ff2c87c3924ed",
+    "content": "# Design System\n\nGetting started\n\n[Getting Started](/resources/getting-started-295f6d94771f81679610dbc48f7bc6bd)\n\n[Using Aether](/resources/using-aether-295f6d94771f81158a50f4796d96beca)\n\nUse cases\n\n[Documentation](/resources/documentation-295f6d94771f8105a00bec12899928be)\n\n[Design System](/resources/design-system-295f6d94771f81649709c72756d73722)\n\n# Design System\n\n> Aether is also perfect for design systems and guidelines\n> \n\n## **Mission Statement**\n\nOur mission is to create the most beautiful documentation template for Super and Notion.\n\n## **Values**\n\n- Minimalism\n- Transparency\n- Forward-thinking\n\n### Logomark\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 1.svg](Design%20System/Frame_1.svg)\n\n## Icon\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum enim. Etiam ultricies augue iaculis, elementum risus non, blandit tortor. Suspendisse lobortis facilisis sapien, in vestibulum sem dignissim ut.\n\n![Frame 5.svg](Design%20System/Frame_5.svg)\n\n![Frame 2.svg](Design%20System/Frame_2.svg)\n\n![Frame 6.svg](Design%20System/Frame_6.svg)\n\n### Primary Colors\n\n[Primary Colors](Design%20System/Primary%20Colors%20295f6d94771f81a4b3a1f03a65142ec4.csv)\n\n### Secondary Colors\n\n[Secondary Colors](Design%20System/Secondary%20Colors%20295f6d94771f812c8cc7d6dd64a8aff5.csv)\n\n← Previous\n\n[Documentation example](https://www.notion.so/c893cd9cef6049fdbfb642a3fb655b69?pvs=21)"
+  },
+  "resources-overview/exclusive-deals-and-discounts/documentation-295f6d94771f81a99a11e5fb4911307e": {
+    "title": "Documentation",
+    "slug": "documentation-295f6d94771f81a99a11e5fb4911307e",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/documentation-295f6d94771f81a99a11e5fb4911307e",
+    "content": "# Documentation\n\nUse cases\n\n# Documentation\n\n> Aether is perfect for building out documentation of all kinds, check out the content below for examples on what can be achieved.\n> \n\n<div class=\"callout\">\n⚡ [Check out the official Super documentation built using Aether here](https://docs.super.so)\n\n</div>\n\n## Code Documentation\n\n### Environment Variables\n\nAether has built-in support for loading environment variables into the browser and Functions. Loading environment variables into Node.js requires a small code snippet. In development, Aether will load environment variables from a file named `.env.development`. For builds, it will load from `.env.production`.\n\nA `.env` file could look like:\n\n```\nAether=https://dev.example.com/apiAPI_KEY=927349872349798\n```\n\nTo load these into Node.js, add the following code snippet to the top of your `Aether-config.js` file:\n\n```jsx\nrequire(\"dotenv\").config({  path: `.env.${process.env.NODE_ENV}`,})\n```\n\nThis loads `process.env.AETHER_API_URL` and `process.env.API_KEY` for use in `Aether-*.js` files and functions.\n\nFor example, when configuring a plugin in `aether-config.js`:\n\n```jsx\nrequire(\"dotenv\").config({  \n\tpath: `.env.${process.env.NODE_ENV}`,\n})\n\nmodule.exports = {  \n\tplugins: [    \n\t\t{      \n\t\t\tresolve: `aether`,      \n\t\t\toptions: {        \n\t\t\t\tapiKey: process.env.API_KEY,      \n\t\t\t},    \n\t\t},  \n\t],\n}\n```\n\n### **Accessing Environment Variables in the browser.**\n\nBy default, environment variables are only available in Node.js code and are not available in the browser as some variables should be kept secret and not exposed to anyone visiting the site.\n\nTo expose a variable in the browser, you must preface its name with `AETHER_`. So `AETHER_API_URL` will be available in browser code but `API_KEY` will not.\n\nVariables are set when JavaScript is compiled so when the development server is started or you build your site.\n\n```jsx\nimport React, { useState, useEffect } from \"react\"\nfunction App() {\n  const [data, setData] = useState()\n  useEffect(async () => {\n    const result = await fetch(\n      `${process.env.AETHER_API_URL}/users`\n    ).then(res => res.json())\n    setData(result.data)\n  })\n  return (\n    <ul>\n      {data.map(user => (\n        <li key={user.id}>\n          <a href={user.url}>{user.name}</a>\n        </li>\n      ))}\n    </ul>\n  )\n}\nexport default App\n```\n\n### **Add `.env*` files to .gitignore**\n\nEnvironment variable files should not be committed to Git as they often contain secrets which are not safe to add to Git. Instead, add `.env.*` to your `.gitignore` file and setup the environment variables manually locally.\n\n---\n\n## Reference Tables\n\n### Light mode colors\n\n[Light Mode](Documentation/Light%20Mode%20295f6d94771f814a9239e86c39996938.csv)\n\n### Dark mode colors\n\n[Dark Mode](Documentation/Dark%20Mode%20295f6d94771f81d9888fff993735ccd1.csv)\n\n---\n\n## Guides and Instructions\n\n### Adding a custom domain to your site\n\nTo add a domain to your site, first head into your site editor (cog icon) and click into the **\"Domains\"** page, then click the **\"Add a custom domain\"** button. After entering your own domain address in the popup, you'll then need to make some changes to the DNS settings through your hosting provider.\n\nYou would need to do this through your domain registrar's (GoDaddy, Namecheap, Google Domains, etc) or DNS provider's (Cloudflare, Netlify, etc) website. For specific instructions, view the content inside the toggle blocks below.\n\n## DNS Settings\n\nBelow you can find the DNS settings that need to be included on your domain registrar's (GoDaddy, Namecheap, Google Domains, etc) or DNS provider's (Cloudflare, Netlify, etc) website.\n\n### Root domain records\n\nFor a root domain like `example.com` you'll need to add the following records:\n\n[Untitled](Documentation/Untitled%20295f6d94771f81c78edaf28a22bc2377.csv)\n\n### Subdomain records\n\nFor a subdomain like `blog.example.com` add this record:\n\n[Untitled](Documentation/Untitled%20295f6d94771f8137aff1d06285bb28c5.csv)\n\n**If you run into issues, please make sure that you have:**\n\n- Added new DNS records to your domain provider\n- Removed old DNS records\n- Waited up to 24 hours for new settings to propagate\n\n<div class=\"callout\">\n💡 This tool can be used to check if the records are set up correctly: [https://www.whatsmydns.net/](https://www.whatsmydns.net/)\n\n</div>\n\n← Previous\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)\n\nNext →\n\n[Design System](https://www.notion.so/4518d74bace84b25a518e64497467506?pvs=21)"
+  },
+  "resources-overview/exclusive-deals-and-discounts/getting-started-295f6d94771f81c382b7e201208943cb": {
+    "title": "Getting Started",
+    "slug": "getting-started-295f6d94771f81c382b7e201208943cb",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/getting-started-295f6d94771f81c382b7e201208943cb",
+    "content": "# Getting Started\n\nGetting started\n\n[Getting Started](/resources/getting-started-295f6d94771f81e286a8e3ae2e124097)\n\n[Using Aether](/resources/using-aether-295f6d94771f8181934efb7afc3ca7e6)\n\nUse cases\n\n[Design System](/resources/design-system-295f6d94771f8137a907fe1ca48806f9)\n\n# Getting Started\n\n> Welcome to Aether, to get started all you need is a [Notion](https://affiliate.notion.so/cxvpa1a3ocar) & [Super](https://super.so) account.\n> \n\n## 1. Duplicate Notion page\n\nThe first step to using this template is to duplicate this Notion page to your own workspace. Click the button below to open the Notion page.\n\n[**Duplicate Notion page**](https://s.super.so/aether)\n\n## 2. Create a Super site\n\nThen, head to your [Super dashboard](https://app.super.so) and create a new site using the public URL of your newly duplicated Notion page. [Learn how to do that here.](https://docs.super.site/creating-a-site)\n\n## 3. Add the style snippet\n\nThen, head to your site settings (gear icon) and into the code page. Then inside the 'Head' tab, paste the following code snippet.\n\n```html\n<link rel=\"stylesheet\" href=\"https://sites.super.so/aether/style.css\"/>\n```\n\n## 4. Add the script snippet\n\nThen inside the 'Body' tab, paste the following code snippet.\n\n```html\n<script src=\"https://sites.super.so/aether/script.js\"></script>\n```\n\n## 5. Add a footer and navbar\n\nFinally, in your site settings be sure to add a footer and navbar.\n\n<div class=\"callout\">\n💡 And just like magic, you should now see the Aether template in your dashboard preview. There's a few extra quirks to customizing and making the most out of the Aether template, check the **'Using Aether'** page to learn more ↓\n\n</div>\n\nNext →\n\n[Using Aether](https://www.notion.so/8fa99420c5c04ff8b06967b8815fbcaf?pvs=21)"
+  },
+  "resources-overview/exclusive-deals-and-discounts/using-aether-295f6d94771f8126b2daee23a2716e17": {
+    "title": "Using Aether",
+    "slug": "using-aether-295f6d94771f8126b2daee23a2716e17",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/using-aether-295f6d94771f8126b2daee23a2716e17",
+    "content": "# Using Aether\n\nGetting started\n\n[Using Aether](/resources/using-aether-295f6d94771f81b697a4f4345669aad2)\n\n[Documentation](/resources/documentation-295f6d94771f81888592e340e401438c)\n\n# Using Aether\n\n> Aether comes with some additional custom features\n> \n\n## Left sidebar\n\nThe left hand sidebar, by default lists all the pages in your site and is wrapped in a synced block so that when you modify the content inside it will update throughout your site. This sidebar **will not** be visible on mobile devices so it is important to add page links to the mobile menu via the Super Navbar, learn more in the next step ↓\n\n## Adding page links to mobile menu\n\nSince the left sidebar will not be visible on mobile devices you need to manually add all your site pages to the links section inside a Super Navbar *(Site settings > Navbar > Navbar items)* so that they appear in a mobile menu. To make sure links don't appear in the navigation bar at the top, make sure to choose the **'Minimal'** Navbar type.\n\n![Manually adding site links via a Super Navbar to appear on Mobile Menu](Using%20Aether/mobile-links.gif)\n\nManually adding site links via a Super Navbar to appear on Mobile Menu\n\n## Right sidebar\n\nThe right hand sidebar, by default features a table of contents so users can navigate your pages with ease. The table of contents is wrapped in a synced block so when you modify the content inside it will update throughout your site. You can also delete the column, it would not break the template layout.\n\n## Primary color\n\nYou can easily switch the primary color of the Aether template to suite your needs. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the HEX color code to your liking. The primary color acts like an accent color and appears in places like code syntax.\n\n```css\n:root {\n\t—-color-primary: #1ca0f1 !important;\n}\n```\n\n## Call to action button\n\nAether has an additional feature that lets you turn a link into a call to action button, check out the example below.\n\n[**Call to action button**](https://super.so)\n\nFor a link to become a button it must be a single **bold** text block on its own line with a link. You can customise the appearance of the button using the code snippet below. To change it, head to your site settings (cog icon), into the **'Code'** page and inside the **'CSS'** tab, simply paste the snippet below and update the values to your liking. This will also affect the styles of the Navbar call to action button.\n\n```css\n:root {\n\t--cta-color-text: #FFFFFF!important;\n\t--cta-color-bg: #1CA0F2!important;\n\t--cta-padding: 12px 22px!important;\n  --cta-border-radius: 50px!important;\n}\n```\n\n![Adding a call to action button](Using%20Aether/call-to-action.gif)\n\nAdding a call to action button\n\n## Adding columns inside columns\n\nYou can now add multiple column blocks to Notion by using the Advanced blocks for multiple columns; type  `/2 columns` in Notion to add two columns.\n\n## Custom site footer\n\nAether is compatible with the Super Footer. Add a footer to your site from the Footer menu on the Site dashboard in Super.\n\n## Site footer social links\n\nThe site footer features a section to display social links, powered in Notion by a gallery block. By default the gallery block is loaded with a range of different Icons that are hidden. To view and enable them, hover over the gallery block and click filter button and uncheck the checkbox, this will show hidden icons. Then inside an icon update the link and check the 'show' box. Make sure to update the filter on the gallery block when you're finished.\n\n![Updating footer social links](Using%20Aether/footer-social.gif)\n\nUpdating footer social links\n\n## Adding new pages\n\nAdding new pages in Aether is easy. Inside the **Control panel toggle block** on the home page of Aether in Notion is a **Create page button**. Click this button to generate a new page using the Aether template and then move it into the left sidebar synced block. This template page automatically has the correct layout and contains all the synced blocks required for the template to work correctly.\n\n![Adding new pages](Using%20Aether/add-page.gif)\n\nAdding new pages\n\n## Content navigation footer\n\nThe content navigation footer is an optional section that you can see at the bottom of this section and it features two large buttons to help users navigate to the previous or next page. The links must be added manually and will only work correctly if it is placed at the very bottom of the center content column. To add this navigation footer to a page, head inside the **Control panel toggle block** on the home page of Aether in Notion and into the **tools page**. Inside is a **'Navigation footer'** template button that you can copy and paste into your other pages and simply click it ****to create a navigation footer.\n\n![Adding a content navigation footer](Using%20Aether/180e6efd-14f3-4f4e-aa18-56777d28825d_(1).gif)\n\nAdding a content navigation footer\n\n← Previous\n\n[Getting Started](https://www.notion.so/130d7196a4fa491f90f488321eeb74aa?pvs=21)\n\nNext →\n\n[Blocks](https://www.notion.so/8349bb5f568e415b8e952dc8a67eb81a?pvs=21)"
+  },
+  "resources-overview/exclusive-deals-and-discounts/blocks/board-collection-block/page-1-295f6d94771f81b5a08ec50d7b78d720": {
+    "title": "Page 1",
+    "slug": "page-1-295f6d94771f81b5a08ec50d7b78d720",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/blocks/board-collection-block/page-1-295f6d94771f81b5a08ec50d7b78d720",
+    "content": "# Page 1\n\nStatus: Status 1"
+  },
+  "resources-overview/exclusive-deals-and-discounts/blocks/board-collection-block/page-2-295f6d94771f81b9a34dfea225f5186b": {
+    "title": "Page 2",
+    "slug": "page-2-295f6d94771f81b9a34dfea225f5186b",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/blocks/board-collection-block/page-2-295f6d94771f81b9a34dfea225f5186b",
+    "content": "# Page 2\n\nStatus: Status 2"
+  },
+  "resources-overview/exclusive-deals-and-discounts/blocks/gallery-collection-block/page-1-295f6d94771f81cc853dd144689c471a": {
+    "title": "Page 1",
+    "slug": "page-1-295f6d94771f81cc853dd144689c471a",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/blocks/gallery-collection-block/page-1-295f6d94771f81cc853dd144689c471a",
+    "content": "# Page 1\n\nCreated: October 23, 2025 8:43 AM\nType: Type 1"
+  },
+  "resources-overview/exclusive-deals-and-discounts/blocks/gallery-collection-block/page-2-295f6d94771f81239fadcfd1477eeaab": {
+    "title": "Page 2",
+    "slug": "page-2-295f6d94771f81239fadcfd1477eeaab",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/blocks/gallery-collection-block/page-2-295f6d94771f81239fadcfd1477eeaab",
+    "content": "# Page 2\n\nCreated: October 23, 2025 8:43 AM\nType: Type 1"
+  },
+  "resources-overview/exclusive-deals-and-discounts/blocks/list-collection-block/page-1-295f6d94771f81488d12e5e06cbcc7de": {
+    "title": "Page 1",
+    "slug": "page-1-295f6d94771f81488d12e5e06cbcc7de",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/blocks/list-collection-block/page-1-295f6d94771f81488d12e5e06cbcc7de",
+    "content": "# Page 1"
+  },
+  "resources-overview/exclusive-deals-and-discounts/blocks/list-collection-block/page-2-295f6d94771f811586f2ce7303ae7f87": {
+    "title": "Page 2",
+    "slug": "page-2-295f6d94771f811586f2ce7303ae7f87",
+    "fullSlug": "resources-overview/exclusive-deals-and-discounts/blocks/list-collection-block/page-2-295f6d94771f811586f2ce7303ae7f87",
+    "content": "# Page 2"
+  }
+}
