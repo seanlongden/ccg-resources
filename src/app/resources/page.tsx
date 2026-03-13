@@ -10,11 +10,19 @@ interface AuthData {
   status?: string;
 }
 
+interface NavSection {
+  title: string;
+  slug: string;
+  description?: string;
+  itemCount?: number;
+  children?: NavItem[];
+}
+
 interface NavItem {
   title: string;
   slug: string;
   fullSlug: string;
-  children?: NavItem[];
+  type?: string;
 }
 
 interface SearchResult {
@@ -24,14 +32,22 @@ interface SearchResult {
   chunk: number;
 }
 
+const SECTION_ICONS: Record<string, string> = {
+  'key-resources': '⭐',
+  'get-started': '🚀',
+  'outreach': '📬',
+  'sales': '🤝',
+  'fulfillment': '✅',
+  'scale': '📈',
+};
+
 export default function ResourcesPage() {
   const [auth, setAuth] = useState<AuthData | null>(null);
-  const [navigation, setNavigation] = useState<NavItem[]>([]);
+  const [navigation, setNavigation] = useState<NavSection[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [isSearching, setIsSearching] = useState(false);
-  const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set());
   const router = useRouter();
 
   const performSearch = useCallback(async (query: string) => {
@@ -40,7 +56,6 @@ export default function ResourcesPage() {
       setIsSearching(false);
       return;
     }
-
     setIsSearching(true);
     try {
       const res = await fetch(`/api/content/page?search=${encodeURIComponent(query)}`);
@@ -65,7 +80,6 @@ export default function ResourcesPage() {
       try {
         const authRes = await fetch('/api/auth');
         const authData = await authRes.json();
-
         if (!authData.authenticated) {
           router.push('/');
           return;
@@ -93,18 +107,6 @@ export default function ResourcesPage() {
   const handleLogout = async () => {
     await fetch('/api/auth', { method: 'DELETE' });
     router.push('/');
-  };
-
-  const toggleSection = (slug: string) => {
-    setExpandedSections(prev => {
-      const next = new Set(prev);
-      if (next.has(slug)) {
-        next.delete(slug);
-      } else {
-        next.add(slug);
-      }
-      return next;
-    });
   };
 
   if (loading) {
@@ -138,7 +140,7 @@ export default function ResourcesPage() {
               <div className="relative">
                 <input
                   type="text"
-                  placeholder="Search..."
+                  placeholder="Search resources..."
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                   className="w-full pl-9 pr-4 py-2 bg-white/10 border border-white/10 rounded-lg text-sm text-white placeholder-white/40 focus:outline-none focus:ring-1 focus:ring-white/30"
@@ -151,10 +153,7 @@ export default function ResourcesPage() {
 
             <div className="flex items-center gap-3">
               <span className="text-sm text-white/60 hidden sm:block">{auth.email}</span>
-              <button
-                onClick={handleLogout}
-                className="text-sm text-white/60 hover:text-white"
-              >
+              <button onClick={handleLogout} className="text-sm text-white/60 hover:text-white">
                 Logout
               </button>
             </div>
@@ -162,7 +161,7 @@ export default function ResourcesPage() {
         </div>
       </header>
 
-      {/* Search Results */}
+      {/* Search Results Overlay */}
       {searchQuery && (
         <div className="fixed inset-0 z-40 bg-black/50 pt-14" onClick={() => setSearchQuery('')}>
           <div className="max-w-2xl mx-auto mt-4 px-4" onClick={e => e.stopPropagation()}>
@@ -179,12 +178,12 @@ export default function ResourcesPage() {
                       onClick={() => setSearchQuery('')}
                     >
                       <p className="font-medium text-gray-900">{result.title}</p>
-                      <p className="text-sm text-gray-500 mt-0.5">{result.slug}</p>
+                      <p className="text-sm text-gray-400 mt-0.5 truncate">{result.slug}</p>
                     </Link>
                   ))}
                 </div>
               ) : (
-                <div className="p-6 text-center text-gray-500">No results found</div>
+                <div className="p-6 text-center text-gray-500">No results found for &quot;{searchQuery}&quot;</div>
               )}
             </div>
           </div>
@@ -192,48 +191,39 @@ export default function ResourcesPage() {
       )}
 
       {/* Main Content */}
-      <main className="max-w-5xl mx-auto px-4 sm:px-6 py-8">
-        {/* All Sections */}
-        <div className="space-y-2">
-          {navigation.map((section) => (
-            <div key={section.slug} className="bg-white rounded-lg border border-gray-200 overflow-hidden">
-              {/* Section Header */}
-              <button
-                onClick={() => toggleSection(section.slug)}
-                className="w-full flex items-center justify-between px-4 py-3 text-left hover:bg-gray-50"
-              >
-                <span className="font-medium text-gray-900">{section.title}</span>
-                <div className="flex items-center gap-3">
-                  <span className="text-sm text-gray-400">{section.children?.length || 0}</span>
-                  <svg
-                    className={`w-5 h-5 text-gray-400 transition-transform ${expandedSections.has(section.slug) ? 'rotate-180' : ''}`}
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                  </svg>
-                </div>
-              </button>
+      <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10">
+        <div className="mb-8">
+          <h1 className="text-2xl font-bold text-gray-900">Member Resource Library</h1>
+          <p className="text-gray-500 mt-1">Everything you need to build and grow your agency</p>
+        </div>
 
-              {/* Section Children */}
-              {expandedSections.has(section.slug) && section.children && section.children.length > 0 && (
-                <div className="border-t border-gray-100 bg-gray-50/50">
-                  {section.children.map((child) => (
-                    <Link
-                      key={child.fullSlug}
-                      href={`/resources/${child.fullSlug}`}
-                      className="flex items-center px-4 py-2.5 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100"
-                    >
-                      <svg className="w-4 h-4 mr-3 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                      </svg>
-                      {child.title}
-                    </Link>
-                  ))}
-                </div>
-              )}
-            </div>
+        {/* 6-card grid */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {navigation.map((section) => (
+            <Link
+              key={section.slug}
+              href={`/resources/${section.slug}`}
+              className="group bg-white rounded-xl border border-gray-200 p-6 hover:border-[#0D1F35] hover:shadow-md transition-all duration-150"
+            >
+              <div className="flex items-start justify-between mb-3">
+                <span className="text-2xl">{SECTION_ICONS[section.slug] || '📄'}</span>
+                <span className="text-xs font-medium text-gray-400 bg-gray-100 rounded-full px-2.5 py-1">
+                  {section.itemCount ?? (section.children?.length ?? 0)} items
+                </span>
+              </div>
+              <h2 className="text-lg font-semibold text-gray-900 group-hover:text-[#0D1F35] mb-1.5">
+                {section.title}
+              </h2>
+              <p className="text-sm text-gray-500 leading-relaxed">
+                {section.description}
+              </p>
+              <div className="mt-4 flex items-center text-sm font-medium text-[#0D1F35] opacity-0 group-hover:opacity-100 transition-opacity">
+                View resources
+                <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </Link>
           ))}
         </div>
       </main>
