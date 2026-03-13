@@ -24,6 +24,11 @@ A members-only resource library for Closing Clients Group (CCG). Members log in 
   - `page-index.json` — flat index of all pages for search
   - `pages-0.json` to `pages-21.json` — chunked page content (markdown)
 - `src/lib/content.ts` loads and caches all content
+- `src/lib/content-renderer.ts` — Notion-to-HTML content renderer using `marked` v17
+  - Preprocessor: strips duplicate H1s, removes broken Notion image paths, extracts Loom URLs → embed tokens, extracts prev/next navigation links, converts callout divs to tokens, cleans Notion toggle blocks
+  - Postprocessor: replaces Loom tokens with responsive iframe embeds, replaces callout tokens with styled callout boxes (info/tip/warning/fire), fixes remaining raw bold/italic
+  - Custom marked renderer: step card headings (Step N: Title → numbered badge), internal links, external links with new-tab icons, styled checkboxes (checked/unchecked), blockquotes, image filtering
+  - CSS components in `src/app/globals.css`: `.ccg-step`, `.ccg-video-embed`, `.ccg-callout-*`, `.ccg-checklist-item`, `.ccg-nav-footer`, `.ccg-nav-btn`, `.ccg-internal-link`, `.ccg-link`, `.ccg-blockquote`, `.ccg-divider`, `.ccg-figure`, table styling via `.prose`
 
 ### Navigation Structure (6 sections)
 1. **Key Resources** — FAQs, recommended settings, tool discounts, webinar vault, mindset

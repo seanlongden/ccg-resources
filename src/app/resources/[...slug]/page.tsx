@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useRouter, useParams } from 'next/navigation';
 import Link from 'next/link';
+import { renderContent } from '@/lib/content-renderer';
 
 type AccessLevel = 'free' | 'trial' | 'active' | 'lifetime';
 type UserStatus = 'active' | 'trialing' | 'canceled_with_access' | 'lifetime' | 'no_subscription';
@@ -343,6 +344,8 @@ function ContentPage({ page, auth }: { page: PageData; auth: AuthData }) {
     );
   }
 
+  const { html, prevLink, nextLink } = renderContent(page.content, page.title);
+
   return (
     <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden">
       <div className="border-b border-gray-100 px-6 sm:px-8 py-6">
@@ -377,111 +380,49 @@ function ContentPage({ page, auth }: { page: PageData; auth: AuthData }) {
             prose-h2:text-xl prose-h2:font-semibold prose-h2:mt-8 prose-h2:mb-4
             prose-h3:text-lg prose-h3:font-medium prose-h3:mt-6 prose-h3:mb-3
             prose-p:text-gray-600 prose-p:leading-relaxed
-            prose-a:text-blue-600 prose-a:underline prose-a:font-medium hover:prose-a:text-blue-800
+            prose-a:text-blue-600 prose-a:font-medium hover:prose-a:text-blue-800
             prose-ul:text-gray-600 prose-ol:text-gray-600
             prose-li:my-1
             prose-code:bg-gray-100 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-code:font-mono
             prose-pre:bg-gray-900 prose-pre:text-gray-100 prose-pre:rounded-xl
-            prose-blockquote:border-l-4 prose-blockquote:border-[#0D1F35] prose-blockquote:bg-gray-50 prose-blockquote:py-1 prose-blockquote:px-4 prose-blockquote:rounded-r-lg prose-blockquote:not-italic
             prose-img:rounded-xl prose-img:shadow-lg
             prose-hr:border-gray-200
             prose-strong:text-gray-900
-            [&_.table-wrapper]:overflow-x-auto [&_.table-wrapper]:my-6
-            [&_table]:w-full [&_table]:border-collapse [&_table]:rounded-lg [&_table]:overflow-hidden [&_table]:border [&_table]:border-gray-200
-            [&_th]:bg-[#0D1F35] [&_th]:text-white [&_th]:font-semibold [&_th]:px-4 [&_th]:py-3 [&_th]:text-left [&_th]:text-sm
-            [&_td]:px-4 [&_td]:py-3 [&_td]:border-b [&_td]:border-gray-100 [&_td]:text-gray-600 [&_td]:text-sm
-            [&_tr:last-child_td]:border-b-0
-            [&_tr:nth-child(even)_td]:bg-gray-50
-            [&_.checkbox]:text-lg [&_.checkbox.checked]:text-green-500 [&_.checkbox.unchecked]:text-gray-400
           "
-          dangerouslySetInnerHTML={{ __html: renderMarkdown(page.content, page.title) }}
+          dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>
 
-      <div className="border-t border-gray-100 px-6 sm:px-8 py-4 bg-gray-50/50">
-        <Link href="/resources" className="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-[#0D1F35]">
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-          </svg>
-          Back to Resource Library
-        </Link>
-      </div>
+      {(prevLink || nextLink) && (
+        <div className="border-t border-gray-100 px-6 sm:px-8 py-5 bg-gray-50/50">
+          <div className="ccg-nav-footer">
+            {prevLink ? (
+              <Link href={prevLink.href} className="ccg-nav-btn">
+                <span className="ccg-nav-btn-label">← Previous</span>
+                <span className="ccg-nav-btn-title">{prevLink.label}</span>
+              </Link>
+            ) : <div />}
+            {nextLink ? (
+              <Link href={nextLink.href} className="ccg-nav-btn ccg-nav-next">
+                <span className="ccg-nav-btn-label">Next →</span>
+                <span className="ccg-nav-btn-title">{nextLink.label}</span>
+              </Link>
+            ) : <div />}
+          </div>
+        </div>
+      )}
+
+      {!prevLink && !nextLink && (
+        <div className="border-t border-gray-100 px-6 sm:px-8 py-4 bg-gray-50/50">
+          <Link href="/resources" className="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-[#0D1F35]">
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+            Back to Resource Library
+          </Link>
+        </div>
+      )}
     </div>
   );
 }
 
-function renderMarkdown(markdown: string, pageTitle?: string): string {
-  let html = markdown;
-
-  if (pageTitle) {
-    const titleLower = pageTitle.toLowerCase();
-    while (true) {
-      const h1Match = html.match(/^\s*#\s+(.+?)(\n|$)/);
-      if (h1Match && h1Match[1].trim().toLowerCase() === titleLower) {
-        html = html.replace(/^\s*#\s+.+?\n?/, '');
-      } else break;
-    }
-  }
-
-  html = html.replace(/(\|[^\n]+\|\n)+/g, (match) => {
-    const rows = match.trim().split('\n').filter(row => row.trim());
-    if (rows.length < 2) return match;
-    let tableHtml = '<div class="table-wrapper"><table>';
-    rows.forEach((row, index) => {
-      if (row.match(/^\|[\s\-:]+\|$/)) return;
-      const cells = row.split('|').filter((cell, i, arr) => i > 0 && i < arr.length - 1);
-      const tag = index === 0 ? 'th' : 'td';
-      tableHtml += '<tr>';
-      cells.forEach(cell => { tableHtml += `<${tag}>${cell.trim()}</${tag}>`; });
-      tableHtml += '</tr>';
-    });
-    tableHtml += '</table></div>';
-    return tableHtml;
-  });
-
-  html = html.replace(/^### (.*$)/gim, '<h3>$1</h3>');
-  html = html.replace(/^## (.*$)/gim, '<h2>$1</h2>');
-  html = html.replace(/^# (.*$)/gim, '<h1>$1</h1>');
-  html = html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-  html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
-  html = html.replace(/- \[ \]/g, '<span class="checkbox unchecked">☐</span>');
-  html = html.replace(/- \[x\]/gi, '<span class="checkbox checked">☑</span>');
-  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
-  html = html.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" />');
-  html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
-  html = html.replace(/```[\s\S]*?```/g, (match) => {
-    const code = match.slice(3, -3).trim();
-    return `<pre><code>${escapeHtml(code)}</code></pre>`;
-  });
-  html = html.replace(/^\s*[-*+]\s+(.*)$/gim, '<li>$1</li>');
-  html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
-  html = html.replace(/^\s*\d+\.\s+(.*)$/gim, '<li>$1</li>');
-  html = html.replace(/^>\s*(.*$)/gim, '<blockquote>$1</blockquote>');
-  html = html.replace(/^---$/gim, '<hr />');
-  html = html.replace(/\n\n/g, '</p><p>');
-  html = '<p>' + html + '</p>';
-  html = html.replace(/<p>\s*<\/p>/g, '');
-  html = html.replace(/<p>\s*(<h[1-6]>)/g, '$1');
-  html = html.replace(/(<\/h[1-6]>)\s*<\/p>/g, '$1');
-  html = html.replace(/<p>\s*(<ul>)/g, '$1');
-  html = html.replace(/(<\/ul>)\s*<\/p>/g, '$1');
-  html = html.replace(/<p>\s*(<blockquote>)/g, '$1');
-  html = html.replace(/(<\/blockquote>)\s*<\/p>/g, '$1');
-  html = html.replace(/<p>\s*(<hr \/>)/g, '$1');
-  html = html.replace(/(<hr \/>)\s*<\/p>/g, '$1');
-  html = html.replace(/<p>\s*(<div)/g, '$1');
-  html = html.replace(/(<\/div>)\s*<\/p>/g, '$1');
-  html = html.replace(/<p>\s*(<table)/g, '$1');
-  html = html.replace(/(<\/table>)\s*<\/p>/g, '$1');
-
-  return html;
-}
-
-function escapeHtml(text: string): string {
-  return text
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#039;');
-}
