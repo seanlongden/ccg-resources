@@ -84,7 +84,7 @@ const markedInstance = new Marked({
       return `<h${depth}>${text}</h${depth}>`;
     },
 
-    link({ href, title, text }: { href: string; title: string | null; text: string }) {
+    link({ href, title, text }: { href: string; title?: string | null; text: string }) {
       const safeHref = escapeAttr(href);
       const isExternal = href.startsWith('http') && !href.includes('/resources/');
 
