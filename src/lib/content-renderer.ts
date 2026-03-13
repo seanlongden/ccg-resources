@@ -121,7 +121,7 @@ const markedInstance = new Marked({
       if (!href || !href.startsWith('http')) return '';
       return `<figure class="ccg-figure"><img src="${escapeAttr(href)}" alt="${escapeAttr(text || '')}" loading="lazy" />${title ? `<figcaption>${escapeAttr(title)}</figcaption>` : ''}</figure>`;
     },
-  } as Record<string, Function>,
+  },
 });
 
 function postprocess(html: string): string {

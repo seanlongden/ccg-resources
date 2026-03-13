@@ -207,7 +207,7 @@ export default function ResourcePage() {
                 <p className="text-gray-500 mt-1">{section.description}</p>
               )}
             </div>
-            <SectionChildren children={section.children || []} />
+            <SectionChildren items={section.children || []} />
           </div>
         )}
 
@@ -236,14 +236,13 @@ export default function ResourcePage() {
   );
 }
 
-function SectionChildren({ children }: { children: NavChild[] }) {
-  // Check if this section has "group" type children (like Outreach)
-  const hasGroups = children.some(c => c.type === 'group');
+function SectionChildren({ items }: { items: NavChild[] }) {
+  const hasGroups = items.some(c => c.type === 'group');
 
   if (hasGroups) {
     return (
       <div className="space-y-8">
-        {children.filter(c => c.type === 'group').map((group) => (
+        {items.filter(c => c.type === 'group').map((group) => (
           <div key={group.slug}>
             <h2 className="text-base font-semibold text-gray-900 mb-3 flex items-center gap-2">
               <span className="w-1 h-5 bg-[#0D1F35] rounded-full inline-block"></span>
@@ -273,7 +272,7 @@ function SectionChildren({ children }: { children: NavChild[] }) {
   const segments: Array<{ dividerTitle?: string; items: NavChild[] }> = [];
   let currentSegment: NavChild[] = [];
 
-  for (const child of children) {
+  for (const child of items) {
     if (child.type === 'divider') {
       if (currentSegment.length > 0 || segments.length === 0) {
         segments.push({ items: currentSegment });
